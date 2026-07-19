@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "177a256ee75c4e84",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9a3c527340464ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77957e8dc7404e8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Q2-重构机制/01-学术文献总结/重构动因的理论视角.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "重构动因的理论视角"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c9a7ede51dc6fbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "812d3a8120faa120",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "104688a03f64ed68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3b9882c4486d897f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5c9c6b2852616392",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fa269f109f42d6e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "82af76f660045d43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12e642087d7c5141",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Q1-断裂原因现状影响/断裂机制总览.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "断裂机制总览 的反向链接列表"
+            }
+          },
+          {
+            "id": "8a0225b059ba8074",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Q1-断裂原因现状影响/断裂机制总览.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "断裂机制总览 的出链列表"
+            }
+          },
+          {
+            "id": "fd739713d16751db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "73ce96d6e6958b75",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "8432b2edc79ed036",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Q1-断裂原因现状影响/断裂机制总览.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "断裂机制总览 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "77957e8dc7404e8a",
+  "lastOpenFiles": [
+    "raw/papers/2025年世界开放报告/第10章.md",
+    "Q2-重构机制/01-学术文献总结/重构策略的文献综述.md",
+    "raw/待纳入知识库/papers/《2025年世界开放报告》第7章-效率与安全并重.md",
+    "Q2-重构机制/01-学术文献总结/重构动因的理论视角.md",
+    "raw/papers/2025年世界开放报告/_ocr_ch10_12.py",
+    "raw/papers/2025年世界开放报告/第9章.md",
+    "raw/papers/2025年世界开放报告/第8章.md",
+    "raw/papers/2025年世界开放报告/第7章.md",
+    "raw/papers/2025年世界开放报告/第6章.md",
+    "raw/papers/2025年世界开放报告/第5章.md",
+    "raw/papers/2025年世界开放报告/第4章.md",
+    "raw/papers/2025年世界开放报告/第3章.md",
+    "raw/papers/2025年世界开放报告/第2章.md",
+    "raw/papers/2025年世界开放报告/第1章.md",
+    "raw/papers/2025年世界开放报告/第0章.md",
+    "raw/papers/2025年世界开放报告/第9章.pdf",
+    "raw/papers/2025年世界开放报告/第8章.pdf",
+    "raw/papers/2025年世界开放报告/第7章.pdf",
+    "raw/papers/2025年世界开放报告/第6章.pdf",
+    "raw/papers/2025年世界开放报告/第5章.pdf",
+    "raw/papers/2025年世界开放报告/第4章.pdf",
+    "raw/papers/2025年世界开放报告/第3章.pdf",
+    "raw/papers/2025年世界开放报告/第2章.pdf",
+    "raw/papers/2025年世界开放报告/第1章.pdf",
+    "Q1-断裂原因现状影响/02-现实资讯总结/案例A.md",
+    "Q1-断裂原因现状影响/01-学术文献总结/断裂驱动因素的文献综述.md",
+    "Q1-断裂原因现状影响/01-学术文献总结/断供影响机制的理论视角.md",
+    "raw/仅存档不纳入/小岛清_边际产业扩张论.md",
+    "raw/papers/2025年世界开放报告/_temp_ch12_p1.png",
+    "raw/papers/2025年世界开放报告/_temp_ch11_p19.png",
+    "raw/papers/2025年世界开放报告/_temp_ch11_p18.png",
+    "raw/papers/2025年世界开放报告/_temp_ch11_p17.png",
+    "raw/papers/2025年世界开放报告/_temp_ch11_p16.png",
+    "raw/papers/2025年世界开放报告/_temp_ch11_p15.png",
+    "raw/papers/2025年世界开放报告/_temp_ch11_p14.png",
+    "raw/papers/2025年世界开放报告/_temp_ch11_p13.png",
+    "raw/papers/2025年世界开放报告/_temp_ch11_p12.png",
+    "raw/papers/2025年世界开放报告/_temp_ch11_p11.png",
+    "raw/papers/2025年世界开放报告/第11章.md",
+    "raw/papers/2025年世界开放报告/第12章.md",
+    "_INDEX.md",
+    "SCHEMA.md",
+    "_LOG.md",
+    "_SYNTHESIS/案例比较矩阵.md",
+    "Q3-政策影响/02-现实资讯总结/案例G.md",
+    "_SYNTHESIS/研究空白与假设.md"
+  ]
+}
