@@ -1,0 +1,1558 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Shen, Bin
+   Li, Qingying
+TI Market disruptions in supply chains: a review of operational models
+AB Market disruptions are unplanned and unanticipated events, which may
+   further influence the flow of goods and materials within a supply chain.
+   In view of the increasing significance of market disruptions in
+   industries, in this paper, we review a selection of related papers that
+   focus on market disruptions in the supply chain. We classify the
+   literature into three aspects, namely, demand disruption, supply
+   disruption, and supply chain disruption risk. We review the
+   representative operational models in each aspect. We derive insights
+   into the current state of knowledge in each area. We suggest three
+   future research directions: (a) Can supply chain structure help reduce
+   disruption risk? (b) How does information asymmetry influence the supply
+   chain in the presence of disruption? (c) How does social welfare vary in
+   the presence of disruption? In conclusion, this paper provides
+   up-to-date information to both researchers and practitioners to better
+   identify, manage, and control market disruptions.
+SN 0969-6016
+EI 1475-3995
+DA 2017-04-13
+UT WOS:000397447400002
+ER
+
+PT J
+AU Shekarian, Mansoor
+   Mellat Parast, Mahour
+TI An Integrative approach to supply chain disruption risk and resilience
+   management: a literature review
+EA MAY 2020
+AB A fundamental question in supply chain resilience is identifying its
+   antecedents and investigating the relative importance of each antecedent
+   in improving resilience to supply chain disruptions. In this paper, a
+   comprehensive systematic literature review is conducted to assess the
+   impact of each of the most widely known practices to enhance resilience
+   (flexibility, agility, redundancy, and collaboration) on mitigating each
+   type of supply chain disruption (demand, supply, process, control, and
+   environmental disruptions). The literature review found that
+   collaboration has been identified by the literature as the most
+   important strategy to cope with control disruptions, and flexibility has
+   been identified by the literature as the most important strategy to cope
+   with demand, supply, process, and environmental disruptions. A framework
+   is then developed for identifying the appropriate antecedents in
+   improving resilience to different types of supply chain disruptions.
+SN 1367-5567
+EI 1469-848X
+DA 2020-06-03
+UT WOS:000534938800001
+ER
+
+PT J
+AU Ismail, Khalib
+   Nikookar, Ethan
+   Pepper, Matthew
+   Stevenson, Mark
+TI The implications of Industry 4.0 for managing supply chain disruption
+   and enhancing supply chain resilience: a systematic literature review
+EA APR 2025
+AB The increasing susceptibility of modern supply chains to disruptions has
+   become a pressing concern for businesses worldwide. Globalisation,
+   technological advancements, and the rise of a wide range of disruptions,
+   from natural disasters to man-made disasters, have highlighted the need
+   for a better approach to Supply Chain Disruption Management (SCDM). The
+   recent emergence of Industry 4.0 technologies has promised new
+   possibilities in enhancing SCDM. This systematic literature review
+   reveals that while some Industry 4.0 technologies are being utilised to
+   manage supply chain disruptions, a more comprehensive and strategic
+   approach is needed, especially in light of global supply chain
+   disruptions. The findings indicate that only 5 out of the 8 commonly
+   discussed Industry 4.0 technologies are currently being utilised to
+   manage supply chain disruptions with approaches primarily focused on
+   robustness, resilience, and risk management, rather than advancing
+   towards the more recent concepts such as antifragility, viability, and
+   survivability. Drawing on the dynamic capabilities theory, this study
+   introduces a novel middle-range theory elaborating how the integration
+   of Industry 4.0 technologies can contribute to developing the
+   antecedents required for each SCDM approach, ultimately benefiting both
+   researchers and practitioners in the field of supply chain management.
+SN 0020-7543
+EI 1366-588X
+DA 2025-05-13
+UT WOS:001482692400001
+ER
+
+PT J
+AU Lopez, C.
+   Morales-Contreras, M. F.
+   Langella, I. M.
+   Alonso-Monge, J.
+TI Modeling supply chain disruptions due to geopolitical Reasons: A
+   systematic literature review
+EA JUL 2025
+AB This article aims to improve understanding of how to manage supply chain
+   threats from geopolitical disruptions. To achieve this, the work
+   conducted a systematic literature review and content analysis of 80
+   articles, examining both the impacts of geopolitical disruptions and the
+   supply chain management decisions made in response. The analysis
+   identifies six distinct types of geopolitical supply chain disruptions,
+   along with their respective effects and corresponding managerial
+   decisions. Their connections are illustrated through specific models
+   tailored to each geopolitical disruption. Accordingly, the article also
+   provides a framework summarizing strategies for mitigating, responding
+   to, and recovering from each geopolitical disruption. This reveals that
+   financial management, collaboration, resilience and, viable supply chain
+   management are effective strategies for dealing with all geopolitical
+   disruptions. However, digitalization, financial innovation management,
+   location management, security management, risk management, circular
+   economy, and sustainable supply chain management have a limited effect
+   on some geopolitical disruptions. The article concludes by suggesting 16
+   directions for future research and offering practical insights for
+   managers and policymakers.
+SN 1366-5545
+EI 1878-5794
+DA 2025-08-02
+UT WOS:001537623800001
+ER
+
+PT J
+AU Ivanov, Dmitry
+   Dolgui, Alexandre
+   Sokolov, Boris
+   Ivanova, Marina
+TI Literature review on disruption recovery in the supply chain
+AB Recent research underlines the crucial role of disruption events and
+   recovery policies in supply chains. Despite a wealth of literature on
+   supply chain design with disruption considerations, to the best of our
+   knowledge there is no survey on supply chain with disruptions and
+   recovery considerations. We analyse state-of-the-art research streams on
+   supply chain design and planning with both disruptions and recovery
+   considerations with the aim of relating the existing quantitative
+   methods to empirical research. The paper structures and classifies
+   existing research streams and application areas of different
+   quantitative methods subject to different disruption risks and recovery
+   measures. We identify gaps in current research and delineate future
+   research avenues. The results of this study are twofold: operations and
+   supply chain managers can observe which quantitative tools are available
+   for different application areas; on the other hand, limitations and
+   future research needs for decision-support methods in supply chain risk
+   management domains can be identified.
+SN 0020-7543
+EI 1366-588X
+DA 2017-01-01
+UT WOS:000407550700017
+ER
+
+PT J
+AU Katsaliaki, K.
+   Galetsi, P.
+   Kumar, S.
+TI Supply chain disruptions and resilience: a major review and future
+   research agenda
+EA JAN 2021
+AB Our study examines the literature that has been published in important
+   journals on supply chain disruptions, a topic that has emerged the last
+   20 years, with an emphasis in the latest developments in the field.
+   Based on a review process important studies have been identified and
+   analyzed. The content analysis of these studies synthesized existing
+   information about the types of disruptions, their impact on supply
+   chains, resilience methods in supply chain design and recovery
+   strategies proposed by the studies supported by cost-benefit analysis.
+   Our review also examines the most popular modeling approaches on the
+   topic with indicative examples and the IT tools that enhance resilience
+   and reduce disruption risks. Finally, a detailed future research agenda
+   is formed about SC disruptions, which identifies the research gaps yet
+   to be addressed. The aim of this study is to amalgamate knowledge on
+   supply chain disruptions which constitutes an important and timely as
+   the frequency and impact of disruptions increase. The study summarizes
+   and builds upon the knowledge of other well-cited reviews and surveys in
+   this research area.
+SN 0254-5330
+EI 1572-9338
+DA 2021-01-26
+UT WOS:000606155700001
+PM 33437110
+ER
+
+PT J
+AU Rojas-Reyes, Juan J.
+   Rivera-Cadavid, Leonardo
+   Pena-Orozco, Diego L.
+TI Disruptions in the food supply chain: A literature review
+EA JUL 2024
+AB Disruptions in the food supply chain are events that affect the flow of
+   products and can be caused by extreme weather, natural disasters,
+   conflicts, pandemics, and political situations, among others. These
+   events can significantly impact food products' availability, quality,
+   and cost, creating risks to the well-being of local populations and
+   livelihoods. The specific literature on food supply chains needs to
+   address other approaches to risk categorisation, which allow for
+   establishing reference frameworks focused on the general classification
+   of types of disruption and parameters related to solution methods. In
+   this paper, we present a literature review to analyse the disruptions in
+   the food supply chain. We classified 74 papers according to the types of
+   disruptions, stakeholders, response level, supply chain echelon,
+   solution methods, goals, and related considerations. The review results
+   showed that the most common disruptions in the food supply chain are
+   climatic, biological and environmental, logistics and infrastructure,
+   and supply. The results of this review allow us to suggest some new
+   research directions.
+EI 2405-8440
+DA 2024-07-31
+UT WOS:001276109400001
+PM 39149054
+ER
+
+PT J
+AU Kramarz, M.
+   Kramarz, W.
+TI THE IDENTIFICATION OF ZONES OF AMPLIFICATION OF DISRUPTIONS IN NETWORK
+   SUPPLY CHAINS OF METALLURGIC PRODUCTS
+AB An increase in the number of participants in a supply chain and network
+   relations results in an increase in the complexity of the entire
+   logistic and production system. Consequently, there appear additional
+   potential sources of disruptions in material flows. The aim of the
+   research presented in the article is to identify the zones of
+   amplification of disruptions in network supply chains of metallurgic
+   products.
+SN 0543-5846
+EI 1334-2576
+DA 2015-01-01
+UT WOS:000341740000073
+ER
+
+PT J
+AU Korder, Benjamin
+   Maheut, Julien
+   Konle, Matthias
+TI Simulation Methods and Digital Strategies for Supply Chains Facing
+   Disruptions: Insights from a Systematic Literature Review
+AB Supply chain disruptions pose significant economic stability and growth
+   challenges, impacting industries globally. This study aims to
+   systematically review the literature on the use of simulation tools in
+   managing supply chain disruptions, focusing on the historical evolution,
+   prevalent simulation methods, specific challenges addressed, and
+   research gaps. A systematic literature review was conducted using the
+   PRISMA method. An initial pool of 236 articles was identified, from
+   which 213 publications were rigorously reviewed. This study analyzed
+   these articles to map the academic landscape, identify key clusters, and
+   explore the integration of digital advancements in enhancing supply
+   chain resilience. The review identified the chronological development of
+   research in this field, highlighting significant contributions and
+   influential authors. It was found that various simulation methods,
+   including discrete-event simulation, agent-based modeling, and system
+   dynamics, are employed to address different aspects of supply chain
+   disruptions. Two primary research frontiers emerged from the analysis:
+   the strategic reconfiguration of supply chain networks to mitigate
+   ripple effects and the swift implementation of countermeasures to
+   contain disruptions. The findings suggest a need for future research
+   focusing on dynamic analysis and control theory applications to
+   understand and manage supply chain disruptions better. This study also
+   notes the increasing interest and need to use digital technologies
+   (digital twins, artificial intelligence, etc.) in future research. It
+   underscores the necessity for continued research to develop resilient
+   and sustainable supply chain infrastructures aligned with the United
+   Nations' Sustainable Development Goals. The identified research gaps
+   offer a roadmap for future scholarly exploration and practical
+   implementation.
+EI 2071-1050
+DA 2024-07-01
+UT WOS:001277630300001
+ER
+
+PT J
+AU Bier, Tobias
+   Lange, Anne
+   Glock, Christoph H.
+TI Methods for mitigating disruptions in complex supply chain structures: a
+   systematic literature review
+EA NOV 2019
+AB Supply chain risk management is extremely important for the success of a
+   company. Due to the increasing complexity of supply chains, avoiding and
+   mitigating the effects of disruptions is very challenging. This article
+   presents the results of a systematic literature review and content
+   analysis in order to provide a comprehensive overview of the methods
+   that are currently used for mitigating supply chain disruptions. The
+   results of the review indicate that research in this field is
+   interdisciplinary and that no common modelling language has emerged thus
+   far. Prior research mostly redraws to graph theory and/or social network
+   analysis, although a few methods have been developed recently
+   specifically for supply chain risk management. We observe that prior
+   contributions addressed risk and structure mostly separately and that
+   only a few works focused on their intersection. The results of this
+   review are consolidated in a research agenda that calls for research on
+   the risk-structure-interface and the development of proxy methods.
+SN 0020-7543
+EI 1366-588X
+DA 2019-12-06
+UT WOS:000498067300001
+ER
+
+PT J
+AU Ivanov, Dmitry
+   Sokolov, Boris
+   Dolgui, Alexandre
+TI The Ripple effect in supply chains: trade-off
+   'efficiency-flexibility-resilience' in disruption management
+AB This study aims at presenting the Ripple effect in supply chains. It
+   develops different dimensions of the Ripple effect and summarises recent
+   developments in the field of supply chain (SC) disruption management
+   from a multi-disciplinary perspective. It structures and classifies
+   existing research streams and applications areas of different
+   quantitative methods to the Ripple effect analysis as well as
+   identifying gaps in current research and delineating future research
+   avenues. The analysis shows that different frameworks already exist
+   implicitly for tackling the Ripple effect in the SC dynamics, control
+   and disruption management domain. However, quantitative analysis tools
+   are still rarely applied in praxis. We conclude that the Ripple effect
+   can be the phenomenon that is able to consolidate research in SC
+   disruption management and recovery similar to the bullwhip effect
+   regarding demand and lead time fluctuations. This may build the agenda
+   for future research on SC dynamics, control, continuity and disruption
+   management, making supply chains more robust, adaptable and profitable.
+SN 0020-7543
+EI 1366-588X
+DA 2014-04-03
+UT WOS:000332202700017
+ER
+
+PT J
+AU Zheng, Rui
+   Gu, Bowen
+   Yin, Shiqi
+   Lai, Kin Keung
+TI Supply Chain Management in Times of Supply Disruption Risk and Consumer
+   Panic Buying: A Systematic Review
+AB This paper provides a systematic review of supply chain management
+   strategies in the context of supply disruption risk and consumer panic
+   buying. A comprehensive literature search was conducted across major
+   databases, including Web of Science, ScienceDirect, and Google Scholar,
+   using Boolean operators to combine keywords such as "supply disruption",
+   "panic buying", and "supply chain management". After manual screening
+   based on titles and abstracts, 134 relevant studies were identified for
+   the final analysis. The review examines how supply disruptions triggered
+   by natural disasters, epidemics, or other unforeseen events lead to
+   consumer panic buying, resulting in substantial fluctuations in demand.
+   The study explores the underlying drivers of consumer panic-buying
+   behavior, including information asymmetry, the perception of resource
+   scarcity, social influence, and individual psychological factors like
+   fear and anxiety caused by unknown risks. It further analyzes the
+   multifaceted impact of panic buying on supply chain performance and
+   social welfare, encompassing higher costs, inventory mismatches, price
+   fluctuations, exacerbation of the bullwhip effect, reduced supply chain
+   efficiency, and loss of consumer welfare. The paper reviews a spectrum
+   of supply chain management strategies to mitigate these adverse effects,
+   such as flexible inventory management, supply chain elasticity
+   enhancement, dynamic production capacity adjustment, diversified
+   supplier networks, and collaborative interventions by governments and
+   retailers. The findings underscore the intricate interplay between
+   supply chain dynamics and consumer panic-buying behavior, providing
+   valuable insights for the development of resilient supply chains.
+EI 2227-7390
+DA 2025-11-17
+UT WOS:001612780200001
+ER
+
+PT J
+AU Mustapha, Saidi Atanda
+   Agha, Mouhamad Shaker Ali
+   Masood, Tariq
+TI The Role of Collaborative Resource Sharing in Supply Chain Recovery
+   During Disruptions: A Systematic Literature Review
+AB The COVID-19 crisis has attracted attention worldwide to supply chain
+   disruptions and resilience. Several supply chain risk management
+   approaches have been revisited or reapplied in the literature; however,
+   collaborative resource sharing is less researched. This study aimed to
+   investigate the current academic state of the art and advances in using
+   collaborative resource sharing as a reactive method to facilitate supply
+   chain recovery in the presence of disruptive events. More specifically
+   we considered the role of different collaborative resource-sharing
+   strategies that organizations can adopt to support supply chain
+   functionalities during times of disruption. We conducted a systematic
+   literature review (SLR) to analyze academic articles that were published
+   online from 2000 to 2022. In order to analyze the literature, we adopted
+   a combination of text-mining, automatic and manual categorization of
+   selected articles, and exploratory analyses such as cluster analysis and
+   relational indicators. We also consider the machine learning
+   classification algorithm i.e. agglomerative hierarchical clustering for
+   the categorization of clusters. The findings show that, for disruptive
+   risks, collaborative sharing of labour and material resources is
+   effective for the recovery of supply chains. More so, labour resources
+   tend to contribute more to the recovery of supply chains through the
+   physical and mental recreation of recovery activities and experiences.
+   Whilst information resources and a mix of information and material
+   resources are highly important in reducing the impact of COVID-19
+   disruptive supply chain risk. In conclusion, collaborating on the three
+   resources, namely labour, material, and information resources can be an
+   effective post-disruption recovery strategy for supply chains.
+SN 2169-3536
+DA 2022-11-21
+UT WOS:000880589600001
+ER
+
+PT J
+AU Xiong, Wei
+   Wu, David D.
+   Yeung, Jeff H. Y.
+TI Semiconductor supply chain resilience and disruption: insights,
+   mitigation, and future directions
+EA AUG 2024
+AB In recent years, the semiconductor supply chain has experienced dramatic
+   changes, due to geopolitical tensions and public health events, which
+   have provided insights into supply chain disruptions and the shortage
+   economy. This review synthesises current research on semiconductor
+   supply chain disruptions to offer a comprehensive analysis of the
+   vulnerabilities of the semiconductor supply chain and resilience
+   strategies. We begin with an overview of the key characteristics and
+   complexities of the semiconductor supply chain. Focusing on geopolitical
+   security issues and public health events, we provide a comprehensive
+   overview of the challenges faced and mitigation strategies adopted.
+   Moreover, we identify important gaps in the literature and propose
+   future research directions, emphasising the need for innovative supply
+   chain management practices and decentralised networks for necessary
+   redundancy. Our analysis contributes to the ongoing discussion on how
+   the robustness and adaptability of the semiconductor supply chain, to
+   ensure its sustainability in the face of a rapidly changing global
+   landscape.
+SN 0020-7543
+EI 1366-588X
+DA 2024-08-20
+UT WOS:001291218200001
+ER
+
+PT J
+AU Linh Nguyen Khanh Duong
+   Chong, Josephine
+TI Supply chain collaboration in the presence of disruptions: a literature
+   review
+EA JAN 2020
+AB The supply chain collaboration has gained significant attention,
+   especially in the presence of disruptions. This paper presents findings
+   from a systematic literature review to answer the question: how
+   collaborations help supply chains respond and recover from a disruption.
+   A total of 157 papers from the year 2000 were studied. The thematic and
+   descriptive analysis identified usefulness, used research methodologies,
+   collaboration mechanisms, and influential factors in collaboration. This
+   comprehensive review provides in-depth insights into the current state
+   of literature, proposes a research framework, and identifies several
+   future research directions. It also highlights the role of each
+   collaboration mechanism based on each severity level of disruptions.
+SN 0020-7543
+EI 1366-588X
+DA 2020-01-11
+UT WOS:000506497900001
+ER
+
+PT J
+AU Spieske, Alexander
+   Birkel, Hendrik
+TI Improving supply chain resilience through industry 4.0: A systematic
+   literature review under the impressions of the COVID-19 pandemic
+EA JUN 2021
+AB The COVID-19 pandemic is one of the most severe supply chain disruptions
+   in history and has challenged practitioners and scholars to improve the
+   resilience of supply chains. Recent technological progress, especially
+   industry 4.0, indicates promising possibilities to mitigate supply chain
+   risks such as the COVID-19 pandemic. However, the literature lacks a
+   comprehensive analysis of the link between industry 4.0 and supply chain
+   resilience. To close this research gap, we present evidence from a
+   systematic literature review, including 62 papers from high-quality
+   journals. Based on a categorization of industry 4.0 enabler technologies
+   and supply chain resilience antecedents, we introduce a holistic
+   framework depicting the relationship between both areas while exploring
+   the current state-of-the-art. To verify industry 4.0's resilience
+   opportunities in a severe supply chain disruption, we apply our
+   framework to a use case, the COVID-19-affected automotive industry.
+   Overall, our results reveal that big data analytics is particularly
+   suitable for improving supply chain resilience, while other industry 4.0
+   enabler technologies, including additive manufacturing and
+   cyber-physical systems, still lack proof of effectiveness. Moreover, we
+   demonstrate that visibility and velocity are the resilience antecedents
+   that benefit most from industry 4.0 implementation. We also establish
+   that industry 4.0 holistically supports pre-disruption resilience
+   measures, enabling more effective proactive risk management. Both
+   research and practice can benefit from this study. While scholars may
+   analyze resilience potentials of under-explored enabler technologies,
+   practitioners can use our findings to guide industry 4.0 investment
+   decisions.
+SN 0360-8352
+EI 1879-0550
+DA 2021-06-15
+UT WOS:000667165200071
+PM 35313661
+ER
+
+PT J
+AU Emenike, Scholastica N.
+   Falcone, Gioia
+TI A review on energy supply chain resilience through optimization
+AB The concept of supply chain resilience continues to attract both
+   industry and research experts in the field of energy. These stakeholders
+   continue to tackle disruptions to supply chain systems through the
+   introduction of strategy options for resilience. A better understanding
+   of broader dimensions of potential disruptions to supply chains caused
+   by uncertainties has become eminent, especially as currently experienced
+   during the global COVID-19 pandemic. The effects of the outbreak in
+   disrupting supply chains in the energy sector will, in the next decade,
+   continue to be a likely concern for industry and research stakeholders.
+   Balancing the increasing need for energy security to meet the continuous
+   growth in energy demand through shortage reduction and increased uptime
+   using optimization is the core of this research. This review paper
+   provides an insight into recent studies in the field of natural gas
+   supply chain resilience as a major player in the energy mix, and the
+   continued disruption and subsequent shutdowns of plant nodes, which
+   results in emission loss to the environment. This paper is motivated by
+   the disparity between demand and supply triggered by the disruption of
+   supply chain networks. Referenced in this paper are scientific work on
+   supply chain resilience of biomass, water, power systems, and natural
+   gas. Findings show that existing studies favor fewer system-based
+   strategies in optimizing for resilience. This review concludes that an
+   optimization is a useful tool to continuously achieve resilience in
+   supply chain production, storage, and transportation activities.
+SN 1364-0321
+EI 1879-0690
+DA 2020-11-17
+UT WOS:000582927200006
+ER
+
+PT J
+AU Solari, Federico
+   Lysova, Natalya
+   Romagnoli, Giovanni
+   Montanari, Roberto
+   Bottani, Eleonora
+TI Insights from 20 Years (2004-2023) of Supply Chain Disruption Research:
+   Trends and Future Directions Based on a Bibliometric Analysis
+AB This paper explores the research trends in the literature about supply
+   chain disruptions published over the last 20 years through a
+   comprehensive review and keyword-based analysis. A sample of 4239 papers
+   retrieved from Scopus was analyzed to identify the key themes covered
+   and the shifts in time of those themes. The results highlight a
+   significant rise in the number of publications on supply chain
+   disruptions since 2021, reflecting the dynamic nature of supply chains
+   and the need to adapt them to increasingly complex scenarios. The
+   findings point out the importance of resilience and risk management but
+   also the progressive shift toward technological innovations and digital
+   tools, as a means to enhance supply chain robustness and sustainability
+   in response to recent global disruptions (e.g., the COVID-19 pandemic,
+   the Russia-Ukraine conflict, and the climate change). From the analyses
+   carried out, interesting opportunities for future research directions
+   are delineated. This study represents a unicum in the scientific
+   literature in terms of the number of articles analyzed, the timespan, as
+   well as the scientometric approach adopted. Finally, the paper
+   highlights the main trends in the field of supply chain disruptions,
+   providing valuable insights for future research activities.
+EI 2071-1050
+DA 2024-09-17
+UT WOS:001311657400001
+ER
+
+PT J
+AU Xu, Song
+   Zhang, Xiaotong
+   Feng, Lipan
+   Yang, Wenting
+TI Disruption risks in supply chain management: a literature review based
+   on bibliometric analysis
+EA JAN 2020
+AB Disruption risks in supply chain management have a great negative
+   influence on the performance of supply chain members. Therefore, the
+   field of supply chain disruption (SCD) has received increasing attention
+   on mitigating the risks and improving the supply chain performance. This
+   paper presents a comprehensive bibliometric overview and visualisation
+   of the field of SCD based on 1,310 publications derived from the core
+   collection of the Web of Science. The influential authors,
+   organisations, and SCD keywords are discussed in detail based on some
+   visualisation tools. Then, the leading publications and main clusters of
+   SCD are identified to find out the key research topics based on citation
+   analysis and reference co-citation analysis. The paper will be a helpful
+   resource for researchers and practitioners who are interested in the
+   field of SCD to capture the current research hotspots and potential
+   research directions.
+SN 0020-7543
+EI 1366-588X
+DA 2020-01-24
+UT WOS:000509083500001
+ER
+
+PT J
+AU Ivanov, Dmitry
+   Dolgui, Alexandre
+TI Low-Certainty-Need (LCN) supply chains: a new perspective in managing
+   disruption risks and resilience
+AB This study suggests a new approach to supply chain (SC) disruption risk
+   management where SC behaviour is less dependent on the certainty of our
+   knowledge about the environment and its changes. The unpredictability of
+   the occurrence of disruption and its magnitude suggests that designing
+   SCs with a low need for 'certainty' may be as important, if not more so,
+   than predetermined disruption control strategies. In this setting, this
+   study calls for the development of a new perspective in SC disruption
+   management, i.e. low-certainty-need (LCN) SCs. A number of principles
+   and concepts is derived in recent, relevant literature to structure the
+   characteristics of the LCN framework and its management. Structural
+   variety, process flexibility, and parametrical redundancy are identified
+   as key LCN SC characteristics that ensure efficient disruption
+   resistance as well as recovery resource allocation. Two efficiency
+   capabilities of the LCN SC are shown, i.e. low need for uncertainty
+   consideration in planning decisions and low need for recovery
+   coordination efforts based on a combination of lean and resilient
+   elements. The results allow the identification of an LCN SC framework,
+   concepts and technologies for its implementation as well as missing
+   themes and new research questions which contribute to a better
+   understanding of SC disruption risks. Special focus is directed on the
+   digital technology usage in the LCN framework implementation.
+SN 0020-7543
+EI 1366-588X
+DA 2019-08-26
+UT WOS:000479054800023
+ER
+
+PT J
+AU Smith, Chase
+   Fatorachian, Hajar
+TI COVID-19 and Supply Chain Disruption Management: A Behavioural Economics
+   Perspective and Future Research Direction
+AB The COVID-19 pandemic has been one of the most severe disruptions to
+   normal life, impacting how businesses operate. The academic literature
+   in the areas of supply chain and operations management has been trying
+   to explain how this has affected decision-making in businesses. However,
+   the existing literature has predominantly overlooked organisational
+   culture and behavioural economic theories. This paper contends that
+   considering the decisions made in supply chain disruption management
+   involve groups and the individuals within them, the relevance of
+   behavioural economic concepts becomes paramount. As such, the objective
+   of this paper is to conduct an integrative literature review, utilising
+   the purposive sampling method to explore the dearth of academic work
+   connecting behavioural economic theories and organisational culture to
+   supply chain disruption management. Additionally, the paper aims to
+   offer guidelines for future research in this domain. Enhancing our
+   comprehension of these domains concerning supply chain disruption
+   management would empower firms to better anticipate their parties'
+   decisions, refine their decision-making models, and cultivate stronger
+   relationships with suppliers and customers.
+SN 0718-1876
+DA 2024-01-09
+UT WOS:001130486100001
+ER
+
+PT J
+AU Shi, Xiaoran
+   Liu, Weihua
+   Zhang, Jiahui
+TI Present and future trends of supply chain management in the presence of
+   COVID-19: a structured literature review
+EA OCT 2021
+AB The COVID-19 inflicted worldwide heavy losses and exposed the
+   vulnerability of the global supply chain. Since then, the number of
+   research works exploring the supply chain-related issues raised by this
+   terrible pandemic steadily increases, making a structured review a
+   necessity. To this end, this paper figured out three major tasks: (1)
+   166 relevant articles are identified, along with a macro-level analysis
+   in terms of general information of the literature; (2) through mapping
+   the relevant research works from the problem-oriented and
+   methodology-driven perspective, the present research hotspots and
+   methodologies/theories used in these studies are revealed; and (3) a
+   research agenda with the consideration of supply chain disruptions and
+   3Rs in the supply chain is proposed. Research findings may shed more
+   light on the discussion of the COVID-19's impacts on supply chains, and
+   providing academical guides for researchers and managerial insights for
+   decision-makers to develop appropriate responses to the pandemic.
+SN 1367-5567
+EI 1469-848X
+DA 2021-10-25
+UT WOS:000707623600001
+ER
+
+PT J
+AU Bui, Tat-Dat
+   Tsai, Feng Ming
+   Tseng, Ming-Lang
+   Tan, Raymond R.
+   Yu, Krista Danielle S.
+   Lim, Ming K.
+TI Sustainable supply chain management towards disruption and
+   organizational ambidexterity: A data driven analysis
+AB Balancing sustainability and disruption of supply chains requires
+   organizational ambidexterity. Sustainable supply chains prioritize
+   efficiency and economies of scale and may not have sufficient redundancy
+   to withstand disruptive events. There is a developing body of literature
+   that attempts to reconcile these two aspects. This study gives a
+   data-driven literature review of sustainable supply chain management
+   trends toward ambidexterity and disruption. The critical review reveals
+   temporal trends and geographic distribution of literature. A hybrid of
+   data-driven analysis approach based on content and bibliometric
+   analyses, fuzzy Delphi method, entropy weight method, and fuzzy
+   decision-making trial and evaluation laboratory is used on 273 keywords
+   and 22 indicators obtained based on the experts' evaluation. The most
+   important indicators are identified as supply chain agility, supply
+   chain coordination, supply chain finance, supply chain flexibility,
+   supply chain resilience, and sustainability. The regions show different
+   tendencies compared with others. Asia and Oceania, Latin America and the
+   Caribbean, and Africa are the regions needs improvement, while Europe
+   and North America show distinct apprehensions on supply chain network
+   design. The main contribution of this review is the identification of
+   the knowledge frontier, which then leads to a discussion of prospects
+   for future studies and practical industry implementation. (C) 2020
+   Institution of Chemical Engineers. Published by Elsevier B.V. All rights
+   reserved.
+SN 2352-5509
+DA 2021-04-01
+UT WOS:000640771000006
+PM 33015266
+ER
+
+PT J
+AU Govindan, Kannan
+   Sethi, Suresh P.
+   Cheng, T. C. E.
+   Lu, Susan Feng
+TI Designing supply chain strategies against epidemic outbreaks such as
+   COVID-19: Review and future research directions
+EA JUL 2023
+AB The supply chain is vulnerable to disruptions, which can lead to
+   operational failure. Therefore, it is crucial to investigate and monitor
+   the risks associated with such disruptions. Epidemics, including the
+   profound impact of COVID-19, exemplify disruptive risks that engender
+   complexities throughout the value chain. COVID-19 has caused significant
+   disruptions to the global supply chain due to the preexisting fragile
+   supply chains, resulting in the unavailability of essential raw
+   materials, halts in production, and imbalances between supply and
+   demand. It has forced the supply chain community to rethink their risk
+   mitigation strategies. Despite its significance, there are a few studies
+   on the existing options and strategies to mitigate the risks associated
+   with epidemics such as COVID-19. This special issue explores
+   state-of-the-art knowledge of various risks and their mitigation
+   strategies, presenting optimized models and solutions. This editorial
+   seeks to introduce valuable insights and illuminate promising avenues
+   for future research by reviewing existing studies. The comprehensive
+   understanding derived from this editorial and the accompanying articles
+   of this special issue will benefit both researchers and practitioners,
+   enabling them to navigate the multifaceted landscape of epidemic-induced
+   disruptive risks in the supply chain and adopt suitable mitigation
+   strategies. Furthermore, this special issue lays a solid foundation for
+   implementing advanced methods for managing and mitigating the disruptive
+   risks that epidemics pose to the supply chain.
+SN 0011-7315
+EI 1540-5915
+DA 2023-07-14
+UT WOS:001019882800001
+ER
+
+PT J
+AU Co, Henry C.
+   David, Israel
+   Feng, Ping
+   Patuwo, Eddy
+TI A continuous-review model for dual intercontinental and domestic
+   outsourcing
+AB When making sourcing decisions, many firms consider only the direct and
+   most visible supply-chain costs, such as unit production costs and
+   ocean-shipping costs. Often ignored are the hidden direct and indirect
+   costs in long supply chains, and their impact on profitability. As
+   supply chains lengthen, supply-chain disruptions undercut the ability of
+   manufacturers and retailers to satisfy market demands. Supply-chain
+   disruptions add costs by forcing companies to increase inventories, to
+   juggle production and shipping schedules, to incur excessive
+   backordering, and to airfreight or discount the prices of goods that
+   were not in the right place at the right time. The question is, can
+   higher incidence of supply-chain disruptions in intercontinental supply
+   chains justify keeping the domestic suppliers? To address the question,
+   this paper presents a hybrid continuous-review inventory model for dual
+   intercontinental and domestic outsourcing. The conditions for domestic
+   outsourcing only, for intercontinental outsourcing, and for dual
+   outsourcing were established. The problem of minimising the long-run
+   average cost of outsourcing was investigated, and mathematical
+   optimisation was used to illustrate the model. It is shown that if the
+   cost of service failure outweighs the cost differential between domestic
+   and intercontinental outsourcing, keeping domestic suppliers may be a
+   good option.
+SN 0020-7543
+DA 2012-12-05
+UT WOS:000310594900011
+ER
+
+PT J
+AU Subramaniam, Roshni C.
+   Ruwet, Melodie
+   Boschetti, Fabio
+   Fielke, Simon
+   Fleming, Aysha
+   Dominguez-Martinez, Rosa Mar
+   Plaganyi, Eva
+   Schrobback, Peggy
+   Melbourne-Thomas, Jessica
+TI The socio-ecological resilience and sustainability implications of
+   seafood supply chain disruption
+EA JUN 2023
+AB Remaining resilient under disruption, while also being sustainable, is
+   essential for continued and equitable seafood supply in a changing
+   world. However, despite the wide application of resilience thinking to
+   sustainability research and the multiple dimensions of social-ecological
+   sustainability, it can be difficult to ascertain how to make a supply
+   chain both resilient and sustainable. In this review, we draw upon the
+   socio-ecological resilience and sustainability literature to identify
+   links and highlight concepts for managing and monitoring adaptive and
+   equitable seafood supply chains. We then review documented responses of
+   seafood supply networks to disruption and detail a case study to
+   describe the attributes of a resilient seafood supply system. Finally,
+   we outline the implications of these responses for social (including
+   wellbeing and equity), economic and environmental sustainability.
+   Disruptions to supply chains were categorised based on their frequency
+   of occurrence (episodic, chronic, cumulative) and underlying themes were
+   derived from supply chain responses for each type of disruption. We
+   found that seafood supply chains were resilient when they were diverse
+   (in either products, markets, consumers or processing), connected,
+   supported by governments at all scales, and where supply chain actors
+   were able to learn and collaborate through trust-based relationships.
+   With planning, infrastructure and systematic mapping, these attributes
+   also can help to build socio-ecological sustainability and move towards
+   more adaptive and equitable seafood supply.
+SN 0960-3166
+EI 1573-5184
+DA 2023-06-25
+UT WOS:001005811700001
+PM 37360577
+ER
+
+PT J
+AU Wei'an, Li
+   Yin, Ma
+TI Research on supply chain emergency governance: A literature review based
+   on bibliometric analysis
+EA MAY 2023
+AB Supply chain disruptions have a significant negative impact on
+   organizational performance, and while companies seek to mitigate the
+   impact of disruption risks, supply chain members propose contingency
+   governance measures from different perspectives to build resilient
+   supply chain systems. However, there is no clear governance consensus on
+   supply chain contingency governance, nor is it clear what research
+   themes exist in this area, so to advance the scientific debate on this
+   topic, this paper presents a systematic review of the literature. Based
+   on the core literature base of Web of Science (WoS), screening 3791
+   academic publications closely related to supply chain emergency
+   governance as research objects, using visual measurement tools to
+   conduct descriptive statistical analysis and cluster analysis of the
+   literature, summarizing the research on supply chain emergency
+   governance. The results found that the literature in the field of supply
+   chain emergency governance continues to rise, and with the outbreak of
+   the COVID-19, the number of publications in this field reached a record
+   high in 2021. In the cluster analysis of the literature, supply chain
+   management, blockchain, and emergency response research under the
+   COVID-19 ranked in the top three research themes. This paper provides a
+   literature review for these three major clusters and summarizes the
+   research on emergency governance under different themes. Finally, future
+   research directions in this area are proposed based on the gaps and
+   limitations of existing research.
+SN 0966-0879
+EI 1468-5973
+DA 2023-05-19
+UT WOS:000984496800001
+ER
+
+PT J
+AU Paul, Sanjoy Kumar
+   Sarker, Ruhul
+   Essam, Daryl
+TI MANAGING RISK AND DISRUPTION IN PRODUCTION-INVENTORY AND SUPPLY CHAIN
+   SYSTEMS: A REVIEW
+AB This paper presents a literature review on risk and disruption
+   management in production-inventory and supply chain systems. The review
+   is conducted on the basis of comparing various works published in this
+   research domain, specifically the papers, which considered real-life
+   risk factors, such as imperfect production processes, risk and
+   disruption in production, supply, demand, and transportation, while
+   developing models for production-inventory and supply chain systems.
+   Emphasis is given on the assumptions and the types of problems
+   considered in the published research. We also focus on reviewing the
+   mathematical models and the solution approaches used in solving the
+   models using both hypothetical and real-world problem scenarios.
+   Finally, the literature review is summarized and future research
+   directions are discussed.
+SN 1547-5816
+EI 1553-166X
+DA 2016-04-13
+UT WOS:000372722200012
+ER
+
+PT J
+AU Llaguno, Arrate
+   Mula, Josefa
+   Campuzano-Bolarin, Francisco
+TI State of the art, conceptual framework and simulation analysis of the
+   ripple effect on supply chains
+EA FEB 2021
+AB Supply chains are becoming increasingly sophisticated and vital for many
+   firms' competetiveness. Nevertheless, their interrelated, complex and
+   global nature also makes them more vulnerable to the risk of their
+   operations being interrupted. This article analyzes the ripple effect on
+   supply chains, which occurs when disruption in one node spreads
+   throughout the supply chain and impacts its performance, design and
+   planning parameters. This article offers a systematic review of the
+   existing literature that covers the ripple effect in the supply chain
+   context. It structures and classifies existing research currents and
+   application areas in this context by presenting and analyzing the
+   obtained results. Based on the conclusions obtained with the literature
+   review, a conceptual framework is proposed and includes the main
+   characteristics and perspectives of the ripple effect on supply chains,
+   and the possible proactive and reactive measures to mitigate its effects
+   and to recover from serious disruptions. The conceptual framework is
+   also analyzed and validated by a system dynamics simulation model.
+SN 0020-7543
+EI 1366-588X
+DA 2021-02-06
+UT WOS:000616238700001
+ER
+
+PT J
+AU Li, Xingyu
+   Krivtsov, Vasiliy
+   Pan, Chaoye
+   Nassehi, Aydin
+   Gao, Robert X.
+   Ivanov, Dmitry
+TI End-to-end supply chain resilience management using deep learning,
+   survival analysis, and explainable artificial intelligence
+EA JUN 2024
+AB This study introduces a data-centric framework for end-to-end supply
+   chain resilience management. With major disruptions such as pandemics
+   profoundly affecting industries and regions, a wealth of data capturing
+   diverse disruption scenarios has emerged. This presents an opportunity
+   to correlate deviations in organizational operations with disruption
+   outcomes, reducing reliance on external supplier data and alleviating
+   associated data privacy concerns. Utilizing deep learning, survival
+   analysis, and explainable artificial intelligence, the research
+   represents a pioneering advancement in translating readily accessible
+   organizational data into forecasts of disruption risks and sources,
+   differing from traditional model-centric methodologies. The application
+   of this framework to a real-world scenario based on a U.S. automotive
+   manufacturer resulted in accurately predicting the time-to-survive for
+   critical parts, with a prediction error of under 20 days for
+   half-year-ahead shortage forecasts. Notably, the model achieved a 50%
+   reduction in error rates for near-term and long-term predictions
+   compared to the best-performing alternative models. Our findings
+   underscore the framework's ability to effectively address the
+   complexities of global supply chain disruptions and unknown-unknown
+   uncertainties by harnessing insights gleaned from internal operational
+   data. This accumulated knowledge enables real-time risk identification
+   and assessment, empowering organizations to deploy timely and targeted
+   risk mitigation strategies for enhancing overall supply chain
+   resilience.
+SN 0020-7543
+EI 1366-588X
+DA 2024-07-06
+UT WOS:001257398600001
+ER
+
+PT J
+AU Datta, P.
+TI Supply network resilience: a systematic literature review and future
+   research
+AB Purpose - The purpose of this paper is to investigate the knowledge
+   existing in the literature on supply chain resilience for identifying
+   the supply chain practices adopted for securing resilience in given
+   uncertain event.
+   Design/methodology/approach - A systematic literature review is
+   conducted to identify 84 conceptual and empirical studies. The research
+   findings are synthesized in categories of uncertain events, supply chain
+   practices and outcomes.
+   Findings - A set of propositions linking the uncertain events,
+   mechanisms and supply chain resilience improvement is developed. It was
+   found that the sufficient conditions for resilience under unexpected
+   disasters are substantially different from those required for resilience
+   against disruptions caused by internal practices or complexity.
+   Originality/value - Practitioners can benefit from the knowledge of
+   interventions and mechanisms to improve their supply chain resilience in
+   the face of different unpredictable situations. The contribution of this
+   paper is twofold: first, it develops an actionable theory of supply
+   chain resilience by developing testable propositions in the context of
+   supply chains exposed to uncertainties resulting from unexpected
+   disruptions, complexity of supply chains and adoption of certain
+   internal practice; second, the paper highlights the key shortcomings of
+   existing literature and provides opportunities for further research and
+   improvement.
+SN 0957-4093
+EI 1758-6550
+DA 2017-11-19
+UT WOS:000414260300020
+ER
+
+PT J
+AU Saisridhar, Pranesh
+   Thuerer, Matthias
+   Avittathur, Balram
+TI Assessing supply chain responsiveness, resilience and robustness
+   (Triple-R) by computer simulation: a systematic review of the literature
+EA FEB 2023
+AB Ever more interconnected and complex supply chains increase the risk of
+   disruptions and their propagation. Companies need to simultaneously
+   develop capabilities such as responsiveness, resilience, and robustness
+   (Triple-R) to hedge against these risks, while staying competitive. This
+   requires careful investment decisions on which portfolio of Triple-R
+   strategies to create. Being a dynamic, transient phenomena, analytical
+   tools are often not feasible to quantify effects. Computer simulation
+   provides an important alternative, which led to a surge of literature in
+   recent years. This study conducted a systematic literature review of
+   studies that use computer simulation for assessing Triple-R
+   capabilities. Based on a final sample of 174 full articles, we found
+   that classical means to create Triple-R capabilities have been widely
+   assessed for a broad set of different disruption characteristics,
+   including type of disruption and type of propagation. But, while there
+   exists a broad literature that focusses on engineering resilience and
+   adaptation, more research is needed that focusses on resilience as
+   transformation. Recent disruptions are social-ecological disruptions
+   that require new mitigation strategies. To appropriately design and
+   assess these strategies, which need to consider societal impacts towards
+   Industry 5.0, hybrid simulations, online simulations, and physical
+   simulations are required that can model social-ecological aspects and
+   contexts.
+SN 0020-7543
+EI 1366-588X
+DA 2023-02-17
+UT WOS:000941929100001
+ER
+
+PT J
+AU Sudan, Tapas
+   Taggar, Rashi
+   Jena, Pabitra Kumar
+   Sharma, Deepika
+TI Supply chain disruption mitigation strategies to advance future research
+   agenda: A systematic literature review
+EA SEP 2023
+AB Growing complexity and vulnerability of global supply chains have led to
+   significant challenges in supply chain functionality. Organizations face
+   shortages, out-of-stock situations, and longer lead times for
+   components, which impacts resilience and recovery processes. Numerous
+   organizations have adopted diverse strategies to mitigate the effects of
+   supply chain disruptions. Despite these efforts, current intricate
+   supply chain complexities have rendered these strategies relatively
+   ineffective in minimizing the impact of disruptions. This predicament
+   can be attributed to a dearth of comprehensive knowledge and a skewed
+   research emphasis, which collectively hindered development and
+   application of robust effective strategies. There is scarcity of both
+   theoretical comprehension and practical experience with specific
+   mitigation strategies. Therefore, this study aims to bridge the critical
+   research gaps by comprehensively examining 133 relevant studies on
+   Supply Chain Disruption Mitigation Strategies (SCDMS). Through
+   bibliometric and network analyses, the study performed quantitative
+   analysis to shed light on evolving intellectual discourse and revealed
+   the exponential rise in publications on SCDMS, which reflect the
+   heightened relevance within contemporary, volatile and uncertain market
+   landscape. This study provides a comprehensive foundation for
+   understanding diverse mitigation strategies identified through
+   systematic literature review by delving into theories, characteristics,
+   methodology, and contextual analysis of SCDMS and propose a conceptual
+   framework for organizations and researchers. The study has also analyzed
+   how organizations can apply diverse mitigation strategies to reduce the
+   impact and enhance recovery and resilience. Holistic and comprehensive
+   review suggest that future research on SCDMS should focus on
+   interactions of components such as unexplored mitigation strategies,
+   implementation process, organisational resilience and supply chain
+   disruptions. The potential challenges and benefits of implementing
+   various mitigation strategies have also been provided along with future
+   research directions. The analysis has been further enriched by inclusion
+   of existing practices to enable the strategists to glean practical
+   insights from successful cases.
+SN 0959-6526
+EI 1879-1786
+DA 2023-10-28
+UT WOS:001083083600001
+ER
+
+PT J
+AU Hosseini, Seyedmohsen
+   Ivanov, Dmitry
+   Dolgui, Alexandre
+TI Review of quantitative methods for supply chain resilience analysis
+AB Supply chain resilience (SCR) manifests when the network is capable to
+   withstand, adapt, and recover from disruptions to meet customer demand
+   and ensure performance. This paper conceptualizes and comprehensively
+   presents a systematic review of the recent literature on quantitative
+   modeling the SCR while distinctively pertaining it to the original
+   concept of resilience capacity. Decision-makers and researchers can
+   benefit from our survey since it introduces a structured analysis and
+   recommendations as to which quantitative methods can be used at
+   different levels of capacity resilience. Finally, the gaps and
+   limitations of existing SCR literature are identified and future
+   research opportunities are suggested.
+SN 1366-5545
+EI 1878-5794
+DA 2019-05-01
+UT WOS:000467517000014
+ER
+
+PT J
+AU Torres-Rivera, Alma Delia
+   Valdes, Angel de Jesus Mc Namara
+   Florencio Da Silva, Rodrigo
+TI The Resilience of the Renewable Energy Electromobility Supply Chain:
+   Review and Trends
+AB Electromobility has been crucial in mitigating transport emissions and
+   meeting reduction targets. From this context, this literature review's
+   main objective is to analyze the resilience of the electromobility
+   supply chain that integrates renewable energy sources. This literature
+   review focuses on the resilience of the electromobility supply chain and
+   how it can incorporate renewable energy sources. The central argument is
+   that the success of the supply chain depends on its ability to resist,
+   adapt, and recover from disruptions that affect operations. We
+   comprehensively review current knowledge in three stages: identifying
+   critical components of resilience, highlighting challenges and
+   opportunities for risk mitigation, establishing strategic alliances, and
+   synthesizing vital issues, trends, and emerging areas that require
+   further research. The findings emphasize the importance of improving
+   supply chain resilience for sustainable transportation and environmental
+   preservation under five guidelines: emergency preparedness, monitoring
+   and evaluation, sustainable practices, maintenance of essential
+   services, and prevention of operational disruptions.
+EI 2071-1050
+DA 2023-10-06
+UT WOS:001071430800001
+ER
+
+PT J
+AU Ellinger, Alexander E.
+   Chen, Haozhe
+   Tian, Yu
+   Armstrong, Craig
+TI Learning orientation, integration, and supply chain risk management in
+   Chinese manufacturing firms
+AB Supply chain risk management (SCRM) has become a differentiating
+   competency as networks of interdependent organisations strive to manage
+   and prevent supply chain disruptions. However, research examining
+   cultural and behavioural factors that may improve SCRM practice is still
+   scarce. Drawing on the knowledge-based view of the firm and using survey
+   data from the Chinese electronics industry, this study examines the
+   roles of learning orientation (LO) and supply chain integration (SCI) as
+   complementary parts of a knowledge deployment process that facilitates
+   SCRM. The study findings demonstrate that SCI partially mediates the
+   relationship between LO and SCRM.
+SN 1367-5567
+EI 1469-848X
+DA 2015-11-11
+UT WOS:000363299200002
+ER
+
+PT J
+AU Qi, Lian
+   Shen, Zuo-Jun Max
+   Snyder, Lawrence V.
+TI A Continuous-Review Inventory Model with Disruptions at Both Supplier
+   and Retailer
+AB We consider a continuous-review inventory problem for a retailer who
+   faces random disruptions both internally and externally (from its
+   supplier). We formulate the expected inventory cost at this retailer and
+   analyze the properties of the cost function. In particular, we show that
+   the cost function is quasi-convex and therefore can be efficiently
+   optimized to numerically find the optimal order size from the retailer
+   to the supplier. Computational experiments provide additional insight
+   into the problem. In addition, we introduce an effective approximation
+   of the cost function. Our approximation can be solved in closed form,
+   which is useful when the model is embedded into more complicated supply
+   chain design or management models.
+SN 1059-1478
+EI 1937-5956
+DA 2009-09-01
+UT WOS:000269589000004
+ER
+
+PT J
+AU Solomon, Marius M.
+TI Causes of Supply Chain Disruptions: An Empirical Analysis in Cold Chains
+   for Food and Pharmaceuticals
+SN 0092-2102
+EI 1526-551X
+DA 2016-04-20
+UT WOS:000373131300012
+ER
+
+PT J
+AU Hohenstein, Nils-Ole
+   Feisel, Edda
+   Hartmann, Evi
+   Giunipero, Larry
+TI Research on the phenomenon of supply chain resilience A systematic
+   review and paths for further investigation
+AB Purpose - This paper provides a robust and structured literature review
+   on supply chain resilience (SCRES), the supply chain's ability to be
+   prepared for unexpected risk events, responding and recovering quickly
+   to potential disruptions to return to its original situation or grow by
+   moving to a new, more desirable state. The purpose of this paper is to
+   analyze the extant research through focussed questions and provide an
+   insightful framework with propositions to guide further publications and
+   identify future research needs.
+   Design/methodology/approach - The findings underlie a systematic
+   literature review methodology requiring a robust method of literature
+   analysis. The sand cone model is adopted to develop a comprehensive
+   SCRES framework.
+   Findings - The literature review reveals a strong need for an
+   overarching SCRES definition and a clear terminology for its building
+   elements. It indicates that most research has been qualitative and lacks
+   in assessing and measuring SCRES performance.
+   Originality/value - This paper contributes a structured overview of 67
+   peer-reviewed articles from 2003 to 2013 on an emerging area of supply
+   chain research. The review formulates an overarching definition of
+   SCRES, groups and synthesizes the various SCRES elements into proactive
+   and reactive strategies for the ex-ante/ex-post disruption stage and
+   illustrates SCRES measurement through performance metrics. It provides a
+   comprehensive SCRES framework with propositions and indicates gaps in
+   the literature to target for further development.
+SN 0960-0035
+EI 1758-664X
+DA 2015-01-01
+UT WOS:000352714700005
+ER
+
+PT J
+AU Snyder, Lawrence V.
+   Atan, Zumbul
+   Peng, Peng
+   Rong, Ying
+   Schmitt, Amanda J.
+   Sinsoysal, Burcu
+TI OR/MS models for supply chain disruptions: a review
+AB We review the Operations Research/Management Science (OR/MS) literature
+   on supply chain disruptions in order to take stock of the research to
+   date and to provide an overview of the research questions that have been
+   addressed. We first place disruptions in the context of other forms of
+   supply uncertainty and discuss common modeling approaches. We then
+   discuss 180 scholarly works on the topic, organized into six categories:
+   evaluating supply disruptions; strategic decisions; sourcing decisions;
+   contracts and incentives; inventory; and facility location. We conclude
+   with a discussion of future research directions.
+SN 0740-817X
+EI 1545-8830
+DA 2016-02-01
+UT WOS:000368181300001
+ER
+
+PT J
+AU Manhart, Pam
+   Summers, James K.
+   Blackhurst, Jennifer
+TI A Meta-Analytic Review of Supply Chain Risk Management: Assessing
+   Buffering and Bridging Strategies and Firm Performance
+EA FEB 2020
+AB Supply chain risk management has received considerable attention as
+   firms experience more frequent and severe impact disruptions. We
+   meta-analytically test the Bode et al. (2011) framework of buffering and
+   bridging supply chain risk management strategies to determine their
+   effect on supply chain risk management. We analyze the supply chain risk
+   management literature to find that both buffering and bridging
+   strategies contribute to supply chain risk management. We also address
+   the benefit of supply chain risk management. Results indicate that
+   supply chain risk management provides a strong contribution to overall
+   firm performance. Additionally, we identify cultural differences of
+   these relationships. Although supply chain risk management strategies
+   may be applied universally, their efficacy varies by culture. In
+   conclusion, we identify and provide guidance for future work.
+SN 1523-2409
+EI 1745-493X
+DA 2020-02-27
+UT WOS:000513341100001
+ER
+
+PT J
+AU Heckmann, Iris
+   Comes, Tina
+   Nickel, Stefan
+TI A critical review on supply chain risk - Definition, measure and
+   modeling
+AB Economic systems are increasingly prone to complexity and uncertainty.
+   Therefore, making well-informed decisions requires risk analysis,
+   control and mitigation. In some areas such as finance, insurance, crisis
+   management and health care, the importance of considering risk is
+   largely acknowledged and well-elaborated, yet rather heterogeneous
+   concepts and approaches for risk management have been developed. The
+   increased frequency and the severe consequences of past supply chain
+   disruptions have resulted in an increasing interest in risk. This
+   development has led to the adoption of the risk concepts, terminologies
+   and methods from related fields. In this paper, existing approaches for
+   quantitative supply chain risk management are reviewed by setting the
+   focus on the definition of supply chain risk and related concepts. (C)
+   2014 Elsevier Ltd. All rights reserved.
+SN 0305-0483
+DA 2015-04-01
+UT WOS:000349586800011
+ER
+
+PT J
+AU Golan, Maureen S.
+   Trump, Benjamin D.
+   Cegan, Jeffrey C.
+   Linkov, Igor
+TI Supply chain resilience for vaccines: review of modeling approaches in
+   the context of the COVID-19 pandemic
+EA MAY 2021
+AB Purpose Despite rapid success in bringing SARS-CoV-2 vaccines to
+   distribution by multiple pharmaceutical corporations, supply chain
+   failures in production and distribution can plague pandemic recovery.
+   This review analyzes and addresses gaps in modeling supply chain
+   resilience in general and specifically for vaccines in order to guide
+   researchers and practitioners alike to improve critical function of
+   vaccine supply chains in the face of inevitable disruptions.
+   Design/methodology/approach Systematic review of the literature on
+   modeling supply chain resilience from 2007 to 2020 is analyzed in tandem
+   with the vaccine supply chain manufacturing literature. These trends are
+   then used to apply a novel matrix analysis to seven Securities and
+   Exchange Commission (SEC) annual filings of pharmaceutical corporations
+   involved in COVID-19 vaccine manufacture and distribution. Findings
+   Pharmaceutical corporations favor efficiency as they navigate
+   regulatory, economic and other threats to their vaccine supply chains,
+   neglecting resilience - absorption, adaptation and recovery from
+   inevitable and unexpected disruptions. However, explicitly applying
+   resilience analytics to the vaccine supply chain and further leveraging
+   emerging network science tools found in the academic literature, such as
+   artificial intelligence (AI), stress tests and digital twins, will help
+   supply chain managers to better quantify efficiency/resilience tradeoffs
+   across all associated networks/domains and support optimal system
+   performance post disruption. Originality/value This is the first review
+   addressing resilience analytics in vaccine supply chains and subsequent
+   extension to operational management through novel matrix analyses of SEC
+   Filings. The authors provide analyses and recommendations that
+   facilitate resilience quantification capabilities for vaccine supply
+   chain managers, regulatory agencies and corporate stakeholders and are
+   especially relevant for pandemic response, including application to the
+   SARS-CoV-2 vaccines.
+SN 0263-5577
+EI 1758-5783
+DA 2021-06-09
+UT WOS:000652568900001
+ER
+
+PT J
+AU Liu, Congyang
+   Wang, Yingli
+   Purvis, Laura
+   Potter, Andrew
+TI Can Digital Twin Technology Enhance Supply-Chain Resilience? A
+   Systematic Literature Review
+AB Digital twin technology (DTT) creates a virtual replica of a physical
+   object, system, or process and uses real-time data to support
+   monitoring, analysis, and control. Although DTT is increasingly
+   discussed as a means to enhance supply-chain resilience, prior evidence
+   is fragmented and lacks an integrated view across disruption stages.
+   This study conducts a systematic literature review of 89 peer-reviewed
+   articles on DTT and supply-chain resilience, applying relevance-based
+   screening to retain studies with substantive theoretical and practical
+   implications. The review indicates that DTT applications for resilience
+   are emergent but gaining momentum, and that their contribution differs
+   by resilience stage. Specifically, DTT capabilities support preparedness
+   through enhanced visibility, risk sensing, and scenario testing;
+   resistance through real-time monitoring, early warning, and evaluation
+   of mitigation options; rebound through response coordination, recovery
+   planning, and adaptive reconfiguration; and growth through
+   post-disruption learning and network redesign. The synthesis also
+   identifies key barriers to adoption, including data quality limitations,
+   high implementation costs, shortages of specialised skills, and
+   governance challenges, and suggests that integration with complementary
+   digital technologies often enables more advanced functionality. Overall,
+   the study provides a stage-based consolidation of DTT capabilities,
+   benefits, and barriers to guide research and managerial deployment.
+EI 2071-1050
+DA 2026-03-16
+UT WOS:001713823100001
+ER
+
+PT J
+AU Sarwar, Dilshad
+   Rye, Sara
+TI The impact of the Russia-Ukraine war on global supply chains: a
+   systematic literature review
+AB This systematic review examines the multifaceted impacts of the
+   Russia-Ukraine war on global supply chains. Following PRISMA
+   methodology, we analyze 22 peer-reviewed studies published between 2022
+   and 2025 to identify key disruption patterns, sectoral vulnerabilities,
+   regional impacts, and adaptive strategies. Our findings reveal
+   significant disruptions across food, energy, and critical materials
+   sectors, with asymmetric regional vulnerabilities particularly affecting
+   developing economies. The review identifies five major impact domains:
+   (1) food security disruptions, (2) energy market volatility, (3)
+   critical material shortages, (4) transportation bottlenecks, and (5)
+   financial market responses. We document emerging adaptation strategies
+   including supply diversification, strategic reserves development, and
+   accelerated digitalization. The findings suggest permanent shifts in
+   global supply chain configurations and trade relationships that will
+   persist beyond the conflict's resolution. This review contributes to
+   both academic understanding of supply chain vulnerability to
+   geopolitical shocks and provides practical insights for logistics
+   professionals developing resilience strategies.
+EI 2571-581X
+DA 2025-10-17
+UT WOS:001591667000001
+ER
+
+PT J
+AU Fischer-Pressler, Diana
+   Eismann, Kathrin
+   Pietrowski, Rafael
+   Fischbach, Kai
+   Schoder, Detlef
+TI Information technology and risk management in supply chains
+EA APR 2020
+AB Purpose This paper reviews and classifies research connecting supply
+   chain risk management (SCRM) and information technology (IT) and derives
+   a structured proposal for fruitful research directions.
+   Design/methodology/approach The authors conducted a systematic
+   literature review of the interplay of SCRM and IT, drawing from major
+   journals in the relevant fields. These findings are enriched by
+   experiences from a three-year international research project. Findings
+   Current research focuses on the role of IT for risk reduction, rather
+   than for risk identification, analysis and monitoring. While much
+   research has investigated operational supply chain risk, fewer insights
+   into disruption risk are available. There is little research on the role
+   of IT in SCRM beyond its potential to enhance information sharing among
+   supply chain partners. To address these gaps, the paper proposes a
+   two-dimensional framework to categorize IT potential for SCRM according
+   to the source and impact of disruption risk on physical supply chain
+   flows, which suggests promising directions for future research.
+   Originality/value The paper offers a systematic review to further our
+   understanding of the relationship of SCRM and IT. In addition, it
+   presents and discusses nine areas for further research aimed at
+   mitigating the gaps identified at the intersection of SCRM and IT.
+SN 0960-0035
+EI 1758-664X
+DA 2020-04-28
+UT WOS:000526355500001
+ER
+
+PT J
+AU Bruckler, Martin
+   Wietschel, Lars
+   Messmann, Lukas
+   Thorenz, Andrea
+   Tuma, Axel
+TI Review of metrics to assess resilience capacities and actions for supply
+   chain resilience
+EA MAY 2024
+AB Efficiency and profitability are the main drivers of globalization and
+   have led to long and complex supply chains. Recent disturbances such as
+   COVID-19 or the Suez Canal obstruction caused severe supply disruptions
+   and thereby unveiled the vulnerability of global trade. Resilient supply
+   chains are characterized by the capacity to absorb, adapt to, and
+   restore after disruptions. Building upon the established concept of the
+   'resilience curve', this article explores the interplay between
+   resilience capacities, metrics, and actions in the state-of-the-art
+   literature. We first analyze and harmonize the terminology used to
+   describe capacities as well as metrics for quantifying resilience. This
+   results in a set of 17 resilience metrics that describe all
+   characteristics of the resilience curve and can be used as a tool to
+   assess the resilience of a supply chain. Subsequently, we propose how
+   these metrics can be applied to quantify the effect of resilience
+   actions. Finally, we analyze which actions are proposed in the
+   literature and classify those actions according to their relation to
+   traditional supply chain planning tasks. Practitioners such as supply
+   chain decision-makers can implement these actions to strengthen the
+   absorptive, adaptive, and restorative capacities and are provided with
+   mathematical formulations to quantify the strengthening effect of
+   actions. Academic research can, inter alia, integrate the metrics into
+   multi-criteria optimization models for decision-making and explore the
+   interplay between economic efficiency, environmental sustainability, and
+   resilience.
+SN 0360-8352
+EI 1879-0550
+DA 2024-06-11
+UT WOS:001239539700001
+ER
+
+PT J
+AU Tang, Christopher S.
+TI Perspectives in supply chain risk management
+AB To gain cost advantage and market share, many firms implemented various
+   initiatives such as outsourced manufacturing and product variety. These
+   initiatives are effective in a stable environment, but they could make a
+   supply chain more vulnerable to various types of disruptions caused by
+   uncertain economic cycles, consumer demands, and natural and man-made
+   disasters. In this paper, we review various quantitative models for
+   managing supply chain risks. We also relate various supply chain risk
+   management (SCRM) strategies examined in the research literature with
+   actual practices. The intent of this paper is three-fold. First, we
+   develop a unified framework for classifying SCRM articles. Second, we
+   hope this review can serve as a practical guide for some researchers to
+   navigate through the sea of research articles in this important area.
+   Third, by highlighting the gap between theory and practice, we hope to
+   motivate researchers to develop new models for mitigating supply chain
+   disruptions. (c) 2006 Elsevier B.V. All rights reserved.
+SN 0925-5273
+EI 1873-7579
+DA 2006-10-01
+UT WOS:000239477900001
+ER
+
+PT J
+AU Alshahapy, Hala
+   Bozeman III, Joe F.
+   Carley, Sanya
+   Nock, Destenie
+   Matisoff, Daniel
+TI Modern challenges facing electric vehicle adoption: a review of barriers
+   to adoption, supply chain challenges, and equity
+AB The automotive industry's shift to electric vehicles (EVs) faces
+   persistent barriers in pricing, financing, and charging infrastructure,
+   particularly affecting low-income and disadvantaged individuals. These
+   hurdles pose challenges to achieving US decarbonization goals and hinder
+   the development of a sustainable and electrified transportation sector.
+   Global disruptions in the supply chain, driven by the pandemic and
+   geopolitical tensions, exacerbate these challenges, keeping EV purchase
+   prices elevated. Key disruptors include critical mineral scarcity,
+   semiconductor shortages, and international trade and COVID-19-related
+   restrictions, complicating efforts to overcome adoption hurdles.
+   Conducting a systematic review using Google Scholar and ScienceDirect,
+   we focused on articles related to EV supply chain disruptions, equity,
+   and adoption barriers published in English post-2009. We analyzed 130
+   articles for topical focus and key findings. Our exploration reveals
+   insights into the challenges of electrifying the transportation sector
+   while addressing equity concerns. Proposing a systemic equity framework,
+   we advocate for the simultaneous and effective administration of
+   resources, policies, and cultural considerations for systematically
+   marginalized communities. This holistic approach aims to navigate the
+   complexities of the EV supply chain, fostering a future marked by
+   equitable transport electrification. The intersection of equity issues
+   with supply chain challenges emphasizes the timeliness and importance of
+   this academic examination. Our contribution to the ongoing discourse on
+   achieving a sustainable and inclusive transition to EVs delves into the
+   dynamics of these challenges, highlighting the need for comprehensive
+   solutions.
+SN 1748-9326
+DA 2025-02-09
+UT WOS:001413001100001
+ER
+
+PT J
+AU Wu, Jun
+   Niu, Xiaxia
+   Gonzalez, Ernesto D. R. Santibanez
+TI Disruptions in the food supply chain during pandemic: a systematic
+   review
+EA MAR 2025
+AB The COVID-19 pandemic has posed unprecedented challenges to the global
+   food supply chain (FSC). This study reviewed 194 academic papers to
+   comprehensively assess the impact of the epidemic on FSC. The findings
+   reveal disruptions on both the demand and supply sides of the FSC.
+   Demand-side disruptions included a surge in retail demand due to panic
+   buying, temporary food supply shortages, and a shift towards online
+   shopping and door-to-door delivery services. On the supply side, the
+   pandemic caused labor shortages, reduced production capacity, challenges
+   in transportation and logistics, and disruptions in international trade.
+   The research synthesized various resilience strategies from the
+   literature, such as multiple sourcing, backup suppliers, collaborative
+   relationships, direct marketing, and the adoption of digital
+   technologies. The study also highlights the significant role of
+   technology, including blockchain, Industry 4.0 technologies, and
+   artificial intelligence et al., in enhancing FSC resilience. Based on
+   the reviewed literature, the study suggests a theoretical framework that
+   can help the food sector build a more resilient FSC to better cope with
+   similar disruptions or emergencies in the post-COVID-19 era. Finally, we
+   proposed future research directions. These insights are valuable for
+   both scholars and practitioners, enhancing their understanding of the
+   FSC's vulnerability during emergencies and offering a pathway towards a
+   more resilient food system.
+SN 1387-585X
+EI 1573-2975
+DA 2025-03-08
+UT WOS:001436551800001
+ER
+
+EF
