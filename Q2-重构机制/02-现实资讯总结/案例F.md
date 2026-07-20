@@ -1,7 +1,7 @@
 ---
 title: 案例F
 created: 2026-07-18
-updated: 2026-07-18
+updated: 2026-07-20
 domain: Q2
 layer: news
 type: case
