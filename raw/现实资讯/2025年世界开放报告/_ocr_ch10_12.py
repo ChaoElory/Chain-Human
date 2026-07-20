@@ -3,7 +3,7 @@ import fitz, os, sys, time, numpy as np
 from PIL import Image
 import easyocr
 
-BASE_DIR = "E:/Obsidian Wiki/供应链重建研究-Human/raw/papers/2025年世界开放报告"
+BASE_DIR = "E:/Obsidian Wiki/Chain-Human/raw/现实资讯/2025年世界开放报告"
 CHAPTER_NAMES = {10: "全球开放合作与经济安全", 11: "中国制度型开放", 12: "专题分析与展望"}
 
 def ocr_page(reader, img):
@@ -60,7 +60,7 @@ def process_chapter(ch, reader):
 
 def main():
     reader = easyocr.Reader(['ch_sim', 'en'], gpu=False)
-    for ch in [10, 11, 12]:
+    for ch in [11, 12]:
         process_chapter(ch, reader)
     print("\n全部完成！")
 
