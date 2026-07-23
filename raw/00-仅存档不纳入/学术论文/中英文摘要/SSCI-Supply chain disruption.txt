@@ -4,6 +4,16 @@ PT J
 AU Shen, Bin
    Li, Qingying
 TI Market disruptions in supply chains: a review of operational models
+SO INTERNATIONAL TRANSACTIONS IN OPERATIONAL RESEARCH
+VL 24
+IS 4
+SI SI
+BP 697
+EP 711
+DI 10.1111/itor.12333
+DT Review
+PD JUL 2017
+PY 2017
 AB Market disruptions are unplanned and unanticipated events, which may
    further influence the flow of goods and materials within a supply chain.
    In view of the increasing significance of market disruptions in
@@ -19,6 +29,17 @@ AB Market disruptions are unplanned and unanticipated events, which may
    the presence of disruption? In conclusion, this paper provides
    up-to-date information to both researchers and practitioners to better
    identify, manage, and control market disruptions.
+RI LI, Qingying/MGV-4950-2025; Shen, Bin/KHT-9523-2024
+OI Shen, Bin/0000-0002-1420-0658
+ZB 0
+Z8 1
+ZR 0
+ZS 0
+TC 53
+ZA 0
+Z9 63
+C1 Donghua Univ, Glorious Sun Sch Business & Management, Dept E Commerce &
+   Logist, Shanghai 200051, Peoples R China
 SN 0969-6016
 EI 1475-3995
 DA 2017-04-13
@@ -30,7 +51,16 @@ AU Shekarian, Mansoor
    Mellat Parast, Mahour
 TI An Integrative approach to supply chain disruption risk and resilience
    management: a literature review
+SO INTERNATIONAL JOURNAL OF LOGISTICS-RESEARCH AND APPLICATIONS
+VL 24
+IS 5
+BP 427
+EP 455
+DI 10.1080/13675567.2020.1763935
 EA MAY 2020
+DT Review
+PD SEP 3 2021
+PY 2021
 AB A fundamental question in supply chain resilience is identifying its
    antecedents and investigating the relative importance of each antecedent
    in improving resilience to supply chain disruptions. In this paper, a
@@ -45,6 +75,17 @@ AB A fundamental question in supply chain resilience is identifying its
    with demand, supply, process, and environmental disruptions. A framework
    is then developed for identifying the appropriate antecedents in
    improving resilience to different types of supply chain disruptions.
+RI Parast, Mahour/D-4084-2012; /AAC-5026-2021
+OI Parast, Mahour/0000-0001-6589-1076; 
+Z8 4
+ZS 3
+ZB 5
+TC 239
+ZR 0
+ZA 0
+Z9 292
+C1 Univ Oregon, Lundquist Coll Business, Eugene, OR 97403 USA
+C1 Arizona State Univ, Ira A Fulton Sch Engn, Tempe, AZ USA
 SN 1367-5567
 EI 1469-848X
 DA 2020-06-03
@@ -58,7 +99,16 @@ AU Ismail, Khalib
    Stevenson, Mark
 TI The implications of Industry 4.0 for managing supply chain disruption
    and enhancing supply chain resilience: a systematic literature review
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+VL 63
+IS 19
+BP 7278
+EP 7304
+DI 10.1080/00207543.2025.2493948
 EA APR 2025
+DT Review
+PD OCT 2 2025
+PY 2025
 AB The increasing susceptibility of modern supply chains to disruptions has
    become a pressing concern for businesses worldwide. Globalisation,
    technological advancements, and the rise of a wide range of disruptions,
@@ -79,6 +129,19 @@ AB The increasing susceptibility of modern supply chains to disruptions has
    of Industry 4.0 technologies can contribute to developing the
    antecedents required for each SCDM approach, ultimately benefiting both
    researchers and practitioners in the field of supply chain management.
+RI Nikookar, Ethan/AFZ-5259-2022; Stevenson, Mark/JZD-4224-2024; Nikookar, Ethan/; /H-1456-2019
+OI Stevenson, Mark/0000-0003-1681-8942; Nikookar,
+   Ethan/0000-0002-4626-367X; 
+Z8 0
+ZS 1
+TC 27
+ZR 0
+ZA 0
+ZB 0
+Z9 30
+C1 Univ Wollongong, Ctr Supply Chain Res, Sch Business, Sydney, Australia
+C1 Univ Lancaster, Management Sch, Lancaster, England
+C1 Rajagiri Business Sch, Kochi, India
 SN 0020-7543
 EI 1366-588X
 DA 2025-05-13
@@ -92,7 +155,14 @@ AU Lopez, C.
    Alonso-Monge, J.
 TI Modeling supply chain disruptions due to geopolitical Reasons: A
    systematic literature review
+SO TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+VL 202
+AR 104290
+DI 10.1016/j.tre.2025.104290
 EA JUL 2025
+DT Review
+PD OCT 2025
+PY 2025
 AB This article aims to improve understanding of how to manage supply chain
    threats from geopolitical disruptions. To achieve this, the work
    conducted a systematic literature review and content analysis of 80
@@ -112,6 +182,23 @@ AB This article aims to improve understanding of how to manage supply chain
    on some geopolitical disruptions. The article concludes by suggesting 16
    directions for future research and offering practical insights for
    managers and policymakers.
+RI CONTRERAS, MANUEL/AAC-4018-2021; López Vargas, Cristina/F-7438-2016
+OI López Vargas, Cristina/0000-0002-5112-2994
+ZR 0
+ZS 0
+TC 19
+Z8 0
+ZB 0
+ZA 0
+Z9 21
+C1 Univ Pablo de Olavide, Dept Management & Mkt, Fac Busines, ES-41013
+   Seville, Spain
+C1 Pontificia Comillas Univ, ICADE Sch Econ & Business Adm, Dept
+   Management, Madrid, Spain
+C1 Univ Pontificia Comillas, Inst Res Technol IIT, ICAI Sch Engn, Madrid,
+   Spain
+C1 Shippensburg Univ, John L Grove Coll Business, Dept Finance & Supply
+   Chain Management, Shippensburg, PA USA
 SN 1366-5545
 EI 1878-5794
 DA 2025-08-02
@@ -124,6 +211,15 @@ AU Ivanov, Dmitry
    Sokolov, Boris
    Ivanova, Marina
 TI Literature review on disruption recovery in the supply chain
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+VL 55
+IS 20
+BP 6158
+EP 6174
+DI 10.1080/00207543.2017.1330572
+DT Review
+PD 2017
+PY 2017
 AB Recent research underlines the crucial role of disruption events and
    recovery policies in supply chains. Despite a wealth of literature on
    supply chain design with disruption considerations, to the best of our
@@ -140,6 +236,22 @@ AB Recent research underlines the crucial role of disruption events and
    for different application areas; on the other hand, limitations and
    future research needs for decision-support methods in supply chain risk
    management domains can be identified.
+RI Sokolov, Boris/S-1946-2016; Ivanov, Dmitry/HCH-2541-2022; Dolgui, Alexandre/K-1688-2013
+OI Sokolov, Boris/0000-0002-2295-7570; Ivanov, Dmitry/0000-0003-4932-9627;
+   Dolgui, Alexandre/0000-0003-0527-4716
+ZB 6
+TC 517
+ZR 0
+ZS 2
+Z8 8
+ZA 0
+Z9 600
+C1 IMT Atlantique, Automat Prod & Comp Sci Dept, LS2N, CNRS,UMR 6004,
+   Nantes 3, France
+C1 RAS, SPIIRAS, St Petersburg Inst Informat & Automat, St Petersburg,
+   Russia
+C1 St Petersburg Natl Res Univ Informat Technol Mech, St Petersburg, Russia
+C1 Berlin Sch Econ & Law, Dept Econ & Business, Berlin, Germany
 SN 0020-7543
 EI 1366-588X
 DA 2017-01-01
@@ -152,7 +264,17 @@ AU Katsaliaki, K.
    Kumar, S.
 TI Supply chain disruptions and resilience: a major review and future
    research agenda
+SO ANNALS OF OPERATIONS RESEARCH
+VL 319
+IS 1
+SI SI
+BP 965
+EP 1002
+DI 10.1007/s10479-020-03912-1
 EA JAN 2021
+DT Review
+PD DEC 2022
+PY 2022
 AB Our study examines the literature that has been published in important
    journals on supply chain disruptions, a topic that has emerged the last
    20 years, with an emphasis in the latest developments in the field.
@@ -170,6 +292,18 @@ AB Our study examines the literature that has been published in important
    the frequency and impact of disruptions increase. The study summarizes
    and builds upon the knowledge of other well-cited reviews and surveys in
    this research area.
+OI Kumar, Sameer/0000-0003-4592-9502
+TC 451
+ZA 0
+Z8 7
+ZB 6
+ZR 0
+ZS 0
+Z9 561
+C1 Int Hellen Univ, Sch Humanities Social Sci & Econ, 14th Km Thessaloniki
+   N Moudania, Thessaloniki 57001, Greece
+C1 Univ St Thomas, Opus Coll Business, Minneapolis Campus,1000 LaSalle Ave,
+   Minneapolis, MN 55403 USA
 SN 0254-5330
 EI 1572-9338
 DA 2021-01-26
@@ -182,7 +316,15 @@ AU Rojas-Reyes, Juan J.
    Rivera-Cadavid, Leonardo
    Pena-Orozco, Diego L.
 TI Disruptions in the food supply chain: A literature review
+SO HELIYON
+VL 10
+IS 14
+AR e34730
+DI 10.1016/j.heliyon.2024.e34730
 EA JUL 2024
+DT Review
+PD JUL 30 2024
+PY 2024
 AB Disruptions in the food supply chain are events that affect the flow of
    products and can be caused by extreme weather, natural disasters,
    conflicts, pandemics, and political situations, among others. These
@@ -200,6 +342,18 @@ AB Disruptions in the food supply chain are events that affect the flow of
    climatic, biological and environmental, logistics and infrastructure,
    and supply. The results of this review allow us to suggest some new
    research directions.
+RI Peña Orozco, Diego León/AAS-5945-2020
+OI Peña Orozco, Diego León/0000-0002-4301-0271
+ZR 0
+TC 31
+ZA 0
+Z8 0
+ZB 4
+ZS 0
+Z9 38
+C1 Univ Valle, Sch Ind Engn, Calle 13 100-00, Cali, Colombia
+C1 Corp Univ Minuto Dios, Programa Acad Ingn Ind, Guadalajara De Buga,
+   Valle Del Cauca, Colombia
 EI 2405-8440
 DA 2024-07-31
 UT WOS:001276109400001
@@ -211,6 +365,14 @@ AU Kramarz, M.
    Kramarz, W.
 TI THE IDENTIFICATION OF ZONES OF AMPLIFICATION OF DISRUPTIONS IN NETWORK
    SUPPLY CHAINS OF METALLURGIC PRODUCTS
+SO METALURGIJA
+VL 54
+IS 1
+BP 279
+EP 282
+DT Review
+PD JAN-MAR 2015
+PY 2015
 AB An increase in the number of participants in a supply chain and network
    relations results in an increase in the complexity of the entire
    logistic and production system. Consequently, there appear additional
@@ -218,6 +380,16 @@ AB An increase in the number of participants in a supply chain and network
    research presented in the article is to identify the zones of
    amplification of disruptions in network supply chains of metallurgic
    products.
+RI Kramarz, Włodzimierz/W-9610-2018
+OI Kramarz, Włodzimierz/0000-0001-7407-8861
+ZS 0
+Z8 0
+ZR 0
+TC 7
+ZA 0
+ZB 0
+Z9 7
+C1 Silesian Tech Univ, Gliwice, Poland
 SN 0543-5846
 EI 1334-2576
 DA 2015-01-01
@@ -230,6 +402,14 @@ AU Korder, Benjamin
    Konle, Matthias
 TI Simulation Methods and Digital Strategies for Supply Chains Facing
    Disruptions: Insights from a Systematic Literature Review
+SO SUSTAINABILITY
+VL 16
+IS 14
+AR 5957
+DI 10.3390/su16145957
+DT Review
+PD JUL 2024
+PY 2024
 AB Supply chain disruptions pose significant economic stability and growth
    challenges, impacting industries globally. This study aims to
    systematically review the literature on the use of simulation tools in
@@ -258,6 +438,23 @@ AB Supply chain disruptions pose significant economic stability and growth
    Nations' Sustainable Development Goals. The identified research gaps
    offer a roadmap for future scholarly exploration and practical
    implementation.
+RI Maheut, Julien/H-6800-2012
+OI Maheut, Julien/0000-0002-5796-9053
+ZS 0
+Z8 0
+TC 13
+ZR 0
+ZB 0
+ZA 0
+Z9 14
+C1 SAP Deutschland SE & Co KG, Cloud Success Serv, BTS CSCO Advisory, Hasso
+   Plattner Ring 7, D-69190 Walldorf, Germany
+C1 Univ Politecn Valencia, Business Org Dept, ROGLE, Camino Vera S-N,
+   Valencia 46022, Spain
+C1 Univ Appl Sci Ansbach, Dept Ind Engn, Residenzstr 8, D-91522 Ansbach,
+   Germany
+C3 SAP Deutschland SE & Co KG
+C3 Univ Appl Sci Ansbach
 EI 2071-1050
 DA 2024-07-01
 UT WOS:001277630300001
@@ -269,7 +466,16 @@ AU Bier, Tobias
    Glock, Christoph H.
 TI Methods for mitigating disruptions in complex supply chain structures: a
    systematic literature review
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+VL 58
+IS 6
+BP 1835
+EP 1856
+DI 10.1080/00207543.2019.1687954
 EA NOV 2019
+DT Review
+PD MAR 18 2020
+PY 2020
 AB Supply chain risk management is extremely important for the success of a
    company. Due to the increasing complexity of supply chains, avoiding and
    mitigating the effects of disruptions is very challenging. This article
@@ -285,6 +491,19 @@ AB Supply chain risk management is extremely important for the success of a
    only a few works focused on their intersection. The results of this
    review are consolidated in a research agenda that calls for research on
    the risk-structure-interface and the development of proxy methods.
+RI Lange, Anne/GXF-4883-2022; Bier, Tobias/P-1591-2017; Glock, Christoph/
+OI Lange, Anne/0000-0001-6801-9515; Bier, Tobias/0000-0003-0512-200X;
+   Glock, Christoph/0000-0001-6006-0070
+Z8 1
+TC 156
+ZB 3
+ZA 0
+ZS 1
+ZR 0
+Z9 189
+C1 Tech Univ Darmstadt, Dept Law & Econ, Darmstadt, Germany
+C1 Univ Luxembourg, Luxembourg Ctr Logist & Supply Chain Management,
+   Luxembourg, Luxembourg
 SN 0020-7543
 EI 1366-588X
 DA 2019-12-06
@@ -297,6 +516,15 @@ AU Ivanov, Dmitry
    Dolgui, Alexandre
 TI The Ripple effect in supply chains: trade-off
    'efficiency-flexibility-resilience' in disruption management
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+VL 52
+IS 7
+BP 2154
+EP 2172
+DI 10.1080/00207543.2013.858836
+DT Review
+PD APR 3 2014
+PY 2014
 AB This study aims at presenting the Ripple effect in supply chains. It
    develops different dimensions of the Ripple effect and summarises recent
    developments in the field of supply chain (SC) disruption management
@@ -313,6 +541,21 @@ AB This study aims at presenting the Ripple effect in supply chains. It
    regarding demand and lead time fluctuations. This may build the agenda
    for future research on SC dynamics, control, continuity and disruption
    management, making supply chains more robust, adaptable and profitable.
+RI Dolgui, Alexandre/K-1688-2013; Ivanov, Dmitry/HCH-2541-2022; Sokolov, Boris/S-1946-2016
+OI Dolgui, Alexandre/0000-0003-0527-4716; Ivanov,
+   Dmitry/0000-0003-4932-9627; Sokolov, Boris/0000-0002-2295-7570
+TC 502
+ZR 0
+ZA 0
+Z8 5
+ZS 2
+ZB 9
+Z9 565
+C1 Berlin Sch Econ & Law, Dept Business Adm, Berlin, Germany
+C1 RAS SPIIRAS, St Petersburg Inst Informat & Automat, Lab Intelligent
+   Informat Technol, St Petersburg, Russia
+C1 LIMOS UMR CNRS, Ecole Natl Super Mines St Etienne, Henri Fayol Inst, St
+   Etienne, France
 SN 0020-7543
 EI 1366-588X
 DA 2014-04-03
@@ -326,6 +569,14 @@ AU Zheng, Rui
    Lai, Kin Keung
 TI Supply Chain Management in Times of Supply Disruption Risk and Consumer
    Panic Buying: A Systematic Review
+SO MATHEMATICS
+VL 13
+IS 21
+AR 3449
+DI 10.3390/math13213449
+DT Review
+PD OCT 29 2025
+PY 2025
 AB This paper provides a systematic review of supply chain management
    strategies in the context of supply disruption risk and consumer panic
    buying. A comprehensive literature search was conducted across major
@@ -351,6 +602,19 @@ AB This paper provides a systematic review of supply chain management
    retailers. The findings underscore the intricate interplay between
    supply chain dynamics and consumer panic-buying behavior, providing
    valuable insights for the development of resilient supply chains.
+OI Zheng, Rui/0000-0002-9439-7242; Lai, Kin Keung/0000-0003-0014-2095
+ZA 0
+ZR 0
+Z8 0
+ZB 0
+ZS 0
+TC 4
+Z9 5
+C1 Wuhan Univ Technol, Sch Safety Sci & Emergency Management, Wuhan 430070,
+   Peoples R China
+C1 Wuhan Univ Technol, China Res Ctr Emergency Management, Wuhan 430070,
+   Peoples R China
+C1 Shaanxi Normal Univ, Int Business Sch, Xian 710119, Peoples R China
 EI 2227-7390
 DA 2025-11-17
 UT WOS:001612780200001
@@ -362,6 +626,14 @@ AU Mustapha, Saidi Atanda
    Masood, Tariq
 TI The Role of Collaborative Resource Sharing in Supply Chain Recovery
    During Disruptions: A Systematic Literature Review
+SO IEEE ACCESS
+VL 10
+BP 115603
+EP 115623
+DI 10.1109/ACCESS.2022.3217500
+DT Review
+PD 2022
+PY 2022
 AB The COVID-19 crisis has attracted attention worldwide to supply chain
    disruptions and resilience. Several supply chain risk management
    approaches have been revisited or reapplied in the literature; however,
@@ -388,6 +660,20 @@ AB The COVID-19 crisis has attracted attention worldwide to supply chain
    disruptive supply chain risk. In conclusion, collaborating on the three
    resources, namely labour, material, and information resources can be an
    effective post-disruption recovery strategy for supply chains.
+RI Ali Agha, Mouhamad Shaker/; MASOOD, Tariq/AAN-1978-2020; Mustapha, Saidi/
+OI Ali Agha, Mouhamad Shaker/0000-0002-9143-7990; MASOOD,
+   Tariq/0000-0002-9933-6940; Mustapha, Saidi/0000-0001-6431-7400
+ZB 1
+Z8 1
+ZA 0
+ZS 0
+ZR 0
+TC 15
+Z9 19
+C1 Univ Strathclyde, Strathclyde Business Sch, Dept Management Sci, Glasgow
+   G1 1XQ, Lanark, Scotland
+C1 Univ Strathclyde, Dept Design Mfg & Engn Management, Glasgow G1 1XJ,
+   Lanark, Scotland
 SN 2169-3536
 DA 2022-11-21
 UT WOS:000880589600001
@@ -399,7 +685,17 @@ AU Xiong, Wei
    Yeung, Jeff H. Y.
 TI Semiconductor supply chain resilience and disruption: insights,
    mitigation, and future directions
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+VL 63
+IS 9
+SI SI
+BP 3442
+EP 3465
+DI 10.1080/00207543.2024.2387074
 EA AUG 2024
+DT Review
+PD MAY 3 2025
+PY 2025
 AB In recent years, the semiconductor supply chain has experienced dramatic
    changes, due to geopolitical tensions and public health events, which
    have provided insights into supply chain disruptions and the shortage
@@ -417,6 +713,17 @@ AB In recent years, the semiconductor supply chain has experienced dramatic
    the robustness and adaptability of the semiconductor supply chain, to
    ensure its sustainability in the face of a rapidly changing global
    landscape.
+RI Wu, David/LEM-4764-2024
+ZR 0
+ZB 1
+Z8 0
+TC 86
+ZA 0
+ZS 0
+Z9 104
+C1 Univ Chinese Acad Sci, Sch Econ & Management, Beijing, Peoples R China
+C1 Univ Wisconsin Madison, Wisconsin Sch Business, Madison, WI USA
+C1 Chinese Univ Hong Kong, CUHK Business Sch, Hong Kong, Peoples R China
 SN 0020-7543
 EI 1366-588X
 DA 2024-08-20
@@ -428,7 +735,16 @@ AU Linh Nguyen Khanh Duong
    Chong, Josephine
 TI Supply chain collaboration in the presence of disruptions: a literature
    review
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+VL 58
+IS 11
+BP 3488
+EP 3507
+DI 10.1080/00207543.2020.1712491
 EA JAN 2020
+DT Review
+PD 2020
+PY 2020
 AB The supply chain collaboration has gained significant attention,
    especially in the presence of disruptions. This paper presents findings
    from a systematic literature review to answer the question: how
@@ -440,6 +756,18 @@ AB The supply chain collaboration has gained significant attention,
    of literature, proposes a research framework, and identifies several
    future research directions. It also highlights the role of each
    collaboration mechanism based on each severity level of disruptions.
+RI Duong, Linh/T-1632-2017
+OI Duong, Linh/0000-0002-9415-1082
+ZB 2
+Z8 0
+ZS 3
+ZA 0
+ZR 0
+TC 177
+Z9 211
+C1 Univ Lincoln, Natl Ctr Food Mfg, Lincoln, England
+C1 Northumbria Univ, Business & Law, Newcastle Upon Tyne, Tyne & Wear,
+   England
 SN 0020-7543
 EI 1366-588X
 DA 2020-01-11
@@ -451,7 +779,14 @@ AU Spieske, Alexander
    Birkel, Hendrik
 TI Improving supply chain resilience through industry 4.0: A systematic
    literature review under the impressions of the COVID-19 pandemic
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+VL 158
+AR 107452
+DI 10.1016/j.cie.2021.107452
 EA JUN 2021
+DT Review
+PD AUG 2021
+PY 2021
 AB The COVID-19 pandemic is one of the most severe supply chain disruptions
    in history and has challenged practitioners and scholars to improve the
    resilience of supply chains. Recent technological progress, especially
@@ -478,6 +813,15 @@ AB The COVID-19 pandemic is one of the most severe supply chain disruptions
    analyze resilience potentials of under-explored enabler technologies,
    practitioners can use our findings to guide industry 4.0 investment
    decisions.
+ZA 0
+ZS 0
+ZR 0
+TC 344
+ZB 6
+Z8 7
+Z9 399
+C1 Friedrich Alexander Univ Erlangen Nuremberg, Chair Supply Chain
+   Management, Lange Gasse 20, D-90403 Nurnberg, Germany
 SN 0360-8352
 EI 1879-0550
 DA 2021-06-15
@@ -489,6 +833,13 @@ PT J
 AU Emenike, Scholastica N.
    Falcone, Gioia
 TI A review on energy supply chain resilience through optimization
+SO RENEWABLE & SUSTAINABLE ENERGY REVIEWS
+VL 134
+AR 110088
+DI 10.1016/j.rser.2020.110088
+DT Review
+PD DEC 2020
+PY 2020
 AB The concept of supply chain resilience continues to attract both
    industry and research experts in the field of energy. These stakeholders
    continue to tackle disruptions to supply chain systems through the
@@ -512,6 +863,17 @@ AB The concept of supply chain resilience continues to attract both
    strategies in optimizing for resilience. This review concludes that an
    optimization is a useful tool to continuously achieve resilience in
    supply chain production, storage, and transportation activities.
+RI FALCONE, GIOIA/AHI-2818-2022
+OI FALCONE, GIOIA/0000-0001-8206-673X
+Z8 4
+ZR 0
+ZB 3
+TC 137
+ZS 0
+ZA 0
+Z9 155
+C1 Univ Glasgow, Sch Engn Energy & Sustainabil Grp, Univ Ave, Glasgow G12
+   8QQ, Lanark, Scotland
 SN 1364-0321
 EI 1879-0690
 DA 2020-11-17
@@ -526,6 +888,14 @@ AU Solari, Federico
    Bottani, Eleonora
 TI Insights from 20 Years (2004-2023) of Supply Chain Disruption Research:
    Trends and Future Directions Based on a Bibliometric Analysis
+SO SUSTAINABILITY
+VL 16
+IS 17
+AR 7530
+DI 10.3390/su16177530
+DT Review
+PD SEP 2024
+PY 2024
 AB This paper explores the research trends in the literature about supply
    chain disruptions published over the last 20 years through a
    comprehensive review and keyword-based analysis. A sample of 4239 papers
@@ -545,6 +915,19 @@ AB This paper explores the research trends in the literature about supply
    well as the scientometric approach adopted. Finally, the paper
    highlights the main trends in the field of supply chain disruptions,
    providing valuable insights for future research activities.
+RI Solari, Federico/ITT-5017-2023; Lysova, Natalya/; Montanari, Roberto/; Romagnoli, Giovanni/A-1804-2017; Bottani, Eleonora/F-9285-2012
+OI Solari, Federico/0000-0001-8365-965X; Lysova,
+   Natalya/0000-0001-6066-6398; Montanari, Roberto/0000-0002-5638-2074;
+   Romagnoli, Giovanni/0000-0002-9891-0314; 
+ZR 0
+TC 10
+Z8 0
+ZS 0
+ZA 0
+ZB 1
+Z9 10
+C1 Univ Parma, Dept Engn Ind Syst & Technol, Viale Sci 181-A, I-43124
+   Parma, Italy
 EI 2071-1050
 DA 2024-09-17
 UT WOS:001311657400001
@@ -557,7 +940,16 @@ AU Xu, Song
    Yang, Wenting
 TI Disruption risks in supply chain management: a literature review based
    on bibliometric analysis
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+VL 58
+IS 11
+BP 3508
+EP 3526
+DI 10.1080/00207543.2020.1717011
 EA JAN 2020
+DT Review
+PD 2020
+PY 2020
 AB Disruption risks in supply chain management have a great negative
    influence on the performance of supply chain members. Therefore, the
    field of supply chain disruption (SCD) has received increasing attention
@@ -572,6 +964,19 @@ AB Disruption risks in supply chain management have a great negative
    resource for researchers and practitioners who are interested in the
    field of SCD to capture the current research hotspots and potential
    research directions.
+RI feng, lipan/AAF-7486-2020; Xu, Song/JYP-2580-2024
+OI Xu, Song/0000-0003-3350-6510
+ZB 8
+ZS 3
+ZA 0
+Z8 4
+TC 271
+ZR 0
+Z9 318
+C1 Nankai Univ, Business Sch, Tianjin, Peoples R China
+C1 Dongbei Univ Finance & Econ, Inst Supply Chain Analyt, Dalian, Peoples R
+   China
+C1 Tongji Univ, Sch Econ & Management, Shanghai, Peoples R China
 SN 0020-7543
 EI 1366-588X
 DA 2020-01-24
@@ -583,6 +988,16 @@ AU Ivanov, Dmitry
    Dolgui, Alexandre
 TI Low-Certainty-Need (LCN) supply chains: a new perspective in managing
    disruption risks and resilience
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+VL 57
+IS 15-16
+SI SI
+BP 5119
+EP 5136
+DI 10.1080/00207543.2018.1521025
+DT Review
+PD AUG 29 2019
+PY 2019
 AB This study suggests a new approach to supply chain (SC) disruption risk
    management where SC behaviour is less dependent on the certainty of our
    knowledge about the environment and its changes. The unpredictability of
@@ -604,6 +1019,18 @@ AB This study suggests a new approach to supply chain (SC) disruption risk
    themes and new research questions which contribute to a better
    understanding of SC disruption risks. Special focus is directed on the
    digital technology usage in the LCN framework implementation.
+RI Ivanov, Dmitry/HCH-2541-2022; Dolgui, Alexandre/K-1688-2013
+OI Ivanov, Dmitry/0000-0003-4932-9627; Dolgui,
+   Alexandre/0000-0003-0527-4716
+ZB 8
+ZS 0
+Z8 4
+ZR 0
+TC 286
+ZA 0
+Z9 316
+C1 Berlin Sch Econ & Law, Dept Business & Econ, Berlin, Germany
+C1 CNRS, LS2N, Dept Automat Prod & Comp Sci, IMT Atlantique, Nantes, France
 SN 0020-7543
 EI 1366-588X
 DA 2019-08-26
@@ -615,6 +1042,15 @@ AU Smith, Chase
    Fatorachian, Hajar
 TI COVID-19 and Supply Chain Disruption Management: A Behavioural Economics
    Perspective and Future Research Direction
+SO JOURNAL OF THEORETICAL AND APPLIED ELECTRONIC COMMERCE RESEARCH
+VL 18
+IS 4
+BP 2163
+EP 2187
+DI 10.3390/jtaer18040109
+DT Review
+PD DEC 2023
+PY 2023
 AB The COVID-19 pandemic has been one of the most severe disruptions to
    normal life, impacting how businesses operate. The academic literature
    in the areas of supply chain and operations management has been trying
@@ -633,6 +1069,15 @@ AB The COVID-19 pandemic has been one of the most severe disruptions to
    management would empower firms to better anticipate their parties'
    decisions, refine their decision-making models, and cultivate stronger
    relationships with suppliers and customers.
+OI Fatorachian, Hajar/0000-0002-2569-7882
+ZR 0
+ZA 0
+ZS 0
+TC 10
+ZB 1
+Z8 0
+Z9 16
+C1 Leeds Beckett Univ, Leeds Business Sch, Leeds LS1 3HB, England
 SN 0718-1876
 DA 2024-01-09
 UT WOS:001130486100001
@@ -644,7 +1089,16 @@ AU Shi, Xiaoran
    Zhang, Jiahui
 TI Present and future trends of supply chain management in the presence of
    COVID-19: a structured literature review
+SO INTERNATIONAL JOURNAL OF LOGISTICS-RESEARCH AND APPLICATIONS
+VL 26
+IS 7
+BP 813
+EP 842
+DI 10.1080/13675567.2021.1988909
 EA OCT 2021
+DT Review
+PD JUL 3 2023
+PY 2023
 AB The COVID-19 inflicted worldwide heavy losses and exposed the
    vulnerability of the global supply chain. Since then, the number of
    research works exploring the supply chain-related issues raised by this
@@ -660,6 +1114,17 @@ AB The COVID-19 inflicted worldwide heavy losses and exposed the
    light on the discussion of the COVID-19's impacts on supply chains, and
    providing academical guides for researchers and managerial insights for
    decision-makers to develop appropriate responses to the pandemic.
+ZA 0
+Z8 2
+ZR 0
+ZS 0
+ZB 0
+TC 34
+Z9 39
+C1 Tianjin Univ, Coll Management & Econ, Tianjin, Peoples R China
+C1 Tianjin Univ, Coll Management & Econ, Dept Logist & Supply Chain
+   Management, Tianjin, Peoples R China
+C1 Tianjin Univ Technol, Sch Management, Tianjin, Peoples R China
 SN 1367-5567
 EI 1469-848X
 DA 2021-10-25
@@ -675,6 +1140,14 @@ AU Bui, Tat-Dat
    Lim, Ming K.
 TI Sustainable supply chain management towards disruption and
    organizational ambidexterity: A data driven analysis
+SO SUSTAINABLE PRODUCTION AND CONSUMPTION
+VL 26
+BP 373
+EP 410
+DI 10.1016/j.spc.2020.09.017
+DT Review
+PD APR 2021
+PY 2021
 AB Balancing sustainability and disruption of supply chains requires
    organizational ambidexterity. Sustainable supply chains prioritize
    efficiency and economies of scale and may not have sufficient redundancy
@@ -698,6 +1171,26 @@ AB Balancing sustainability and disruption of supply chains requires
    for future studies and practical industry implementation. (C) 2020
    Institution of Chemical Engineers. Published by Elsevier B.V. All rights
    reserved.
+RI Tseng, Ming-Lang/AEM-6662-2022; Yu, Krista Danielle/AAG-6259-2020; Lim, Ming K/D-1476-2017
+OI Yu, Krista Danielle/0000-0002-3001-1793; Lim, Ming K/0000-0003-0809-9431
+TC 202
+ZB 17
+ZS 3
+Z8 3
+ZA 1
+ZR 0
+Z9 231
+C1 Natl Taiwan Ocean Univ, Dept Shipping & Transportat Management, Taipei,
+   Taiwan
+C1 Asia Univ Taiwan, Inst Innovat & Circular Econ, 500 Lioufeng Rd,
+   Taichung 41354, Taiwan
+C1 China Med Univ, Dept Med Res, Taichung, Taiwan
+C1 Univ Kebangsaan Malaysia, Fac Econ & Management, Bangi, Selangor,
+   Malaysia
+C1 De La Salle Univ, Dept Chem Engn, Manila, Philippines
+C1 De La Salle Univ, Sch Econ, Manila, Philippines
+C1 Coventry Univ, Fac Business & Law, Ctr Business Soc, Coventry, W
+   Midlands, England
 SN 2352-5509
 DA 2021-04-01
 UT WOS:000640771000006
@@ -711,7 +1204,16 @@ AU Govindan, Kannan
    Lu, Susan Feng
 TI Designing supply chain strategies against epidemic outbreaks such as
    COVID-19: Review and future research directions
+SO DECISION SCIENCES
+VL 54
+IS 4
+BP 365
+EP 374
+DI 10.1111/deci.12609
 EA JUL 2023
+DT Review
+PD AUG 2023
+PY 2023
 AB The supply chain is vulnerable to disruptions, which can lead to
    operational failure. Therefore, it is crucial to investigate and monitor
    the risks associated with such disruptions. Epidemics, including the
@@ -735,6 +1237,26 @@ AB The supply chain is vulnerable to disruptions, which can lead to
    strategies. Furthermore, this special issue lays a solid foundation for
    implementing advanced methods for managing and mitigating the disruptive
    risks that epidemics pose to the supply chain.
+RI Lu, Susan/; Sethi, Suresh/C-4517-2012; govindan, kannan/M-5996-2017; Cheng, T./D-5688-2015
+OI Lu, Susan/0000-0001-5852-0816; govindan, kannan/0000-0002-6204-1196; 
+ZB 1
+ZS 0
+Z8 0
+ZR 0
+TC 19
+ZA 0
+Z9 20
+C1 Shanghai Maritime Univ, China Inst FTZ Supply Chain, Shanghai, Peoples R
+   China
+C1 Univ Southern Denmark, Danish Inst Adv Study, Ctr Sustainable Supply
+   Chain Engn, Dept Technol & Innovat, Odense, Denmark
+C1 Yonsei Univ, Yonsei Frontier Lab, Seoul, South Korea
+C1 Woxsen Univ, Sch Business, Sadasivpet, Telangana, India
+C1 Univ Texas Dallas, Ctr Intelligent Supply Networks C4iSN, Naveen Jindal
+   Sch Management, Richardson, TX USA
+C1 Hong Kong Polytech Univ, Dept Logist & Maritime Studies, Hung Hom,
+   Kowloon, Hong Kong, Peoples R China
+C1 Purdue Univ, Mitchell E Daniels Jr Sch Business, W Lafayette, IN USA
 SN 0011-7315
 EI 1540-5915
 DA 2023-07-14
@@ -748,6 +1270,15 @@ AU Co, Henry C.
    Patuwo, Eddy
 TI A continuous-review model for dual intercontinental and domestic
    outsourcing
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+VL 50
+IS 19
+BP 5460
+EP 5473
+DI 10.1080/00207543.2011.638941
+DT Review
+PD 2012
+PY 2012
 AB When making sourcing decisions, many firms consider only the direct and
    most visible supply-chain costs, such as unit production costs and
    ocean-shipping costs. Often ignored are the hidden direct and indirect
@@ -769,6 +1300,18 @@ AB When making sourcing decisions, many firms consider only the direct and
    cost of service failure outweighs the cost differential between domestic
    and intercontinental outsourcing, keeping domestic suppliers may be a
    good option.
+Z8 0
+ZA 0
+ZR 0
+ZS 0
+TC 5
+ZB 0
+Z9 8
+C1 Calif State & Polytech Univ, Pomona, CA USA
+C1 Ben Gurion Univ Negev, Dept IE & Management, IL-84105 Beer Sheva, Israel
+C1 Technol & Sci Inst No Taiwan, Taipei, Taiwan
+C1 Kent State Univ, Grad Sch Management, Kent, OH 44242 USA
+C3 Technol & Sci Inst No Taiwan
 SN 0020-7543
 DA 2012-12-05
 UT WOS:000310594900011
@@ -786,7 +1329,16 @@ AU Subramaniam, Roshni C.
    Melbourne-Thomas, Jessica
 TI The socio-ecological resilience and sustainability implications of
    seafood supply chain disruption
+SO REVIEWS IN FISH BIOLOGY AND FISHERIES
+VL 33
+IS 4
+BP 1129
+EP 1154
+DI 10.1007/s11160-023-09788-1
 EA JUN 2023
+DT Review
+PD DEC 2023
+PY 2023
 AB Remaining resilient under disruption, while also being sustainable, is
    essential for continued and equitable seafood supply in a changing
    world. However, despite the wide application of resilience thinking to
@@ -810,6 +1362,27 @@ AB Remaining resilient under disruption, while also being sustainable, is
    With planning, infrastructure and systematic mapping, these attributes
    also can help to build socio-ecological sustainability and move towards
    more adaptive and equitable seafood supply.
+RI Ruwet, Melodie/; Plaganyi, Eva/C-5130-2011; Fielke, Simon/M-5119-2017; Schrobback, Peggy/X-4697-2019; Boschetti, Fabio/A-1607-2015; Subramaniam, Roshni/ADZ-6878-2022; Fleming, Aysha/E-8753-2011; Melbourne-Thomas, Jess/G-7995-2012
+OI Ruwet, Melodie/0000-0002-7848-3204; Plaganyi, Eva/0000-0002-4740-4200;
+   Fielke, Simon/0000-0003-1166-231X; Schrobback,
+   Peggy/0000-0003-0526-1659; Boschetti, Fabio/0000-0001-8999-6913;
+   Subramaniam, Roshni/0000-0001-7368-8086; Fleming,
+   Aysha/0000-0001-9895-1928; Melbourne-Thomas, Jess/0000-0001-6585-876X
+TC 21
+ZR 0
+ZA 0
+ZB 6
+ZS 0
+Z8 0
+Z9 24
+C1 CSIRO Environm, Hobart, Tas 7000, Australia
+C1 Univ Tasmania, Ctr Marine Socioecol, Hobart, Tas 7000, Australia
+C1 Griffith Univ, Sch Govt & Int Relat, Nathan, Qld 4222, Australia
+C1 CSIRO Environm, Crawley, WA 6009, Australia
+C1 CSIRO Environm, Dutton Pk, Qld 4102, Australia
+C1 Univ Queensland, Sch Earth & Environm Sci, St Lucia, Qld 4067, Australia
+C1 CSIRO Environm, St Lucia, Qld 4067, Australia
+C1 CSIRO Agr & Food, St Lucia, Qld 4067, Australia
 SN 0960-3166
 EI 1573-5184
 DA 2023-06-25
@@ -822,7 +1395,16 @@ AU Wei'an, Li
    Yin, Ma
 TI Research on supply chain emergency governance: A literature review based
    on bibliometric analysis
+SO JOURNAL OF CONTINGENCIES AND CRISIS MANAGEMENT
+VL 31
+IS 4
+BP 683
+EP 705
+DI 10.1111/1468-5973.12471
 EA MAY 2023
+DT Review
+PD DEC 2023
+PY 2023
 AB Supply chain disruptions have a significant negative impact on
    organizational performance, and while companies seek to mitigate the
    impact of disruption risks, supply chain members propose contingency
@@ -846,6 +1428,21 @@ AB Supply chain disruptions have a significant negative impact on
    research on emergency governance under different themes. Finally, future
    research directions in this area are proposed based on the gaps and
    limitations of existing research.
+OI yin, ma/0000-0002-0564-5452
+ZA 0
+ZR 0
+ZS 0
+ZB 0
+TC 3
+Z8 0
+Z9 4
+C1 Nankai Univ, China Acad Corp Governance, Corp governance, Tianjin,
+   Peoples R China
+C1 Tianjin Univ Finance & Econ, Business management Commercial Coll,
+   Tianjin, Peoples R China
+C1 Tianjin Transportat Vocat Coll, Sch Logist Engn, Logist management,
+   Tianjin, Peoples R China
+C3 Tianjin Transportat Vocat Coll
 SN 0966-0879
 EI 1468-5973
 DA 2023-05-19
@@ -858,6 +1455,15 @@ AU Paul, Sanjoy Kumar
    Essam, Daryl
 TI MANAGING RISK AND DISRUPTION IN PRODUCTION-INVENTORY AND SUPPLY CHAIN
    SYSTEMS: A REVIEW
+SO JOURNAL OF INDUSTRIAL AND MANAGEMENT OPTIMIZATION
+VL 12
+IS 3
+BP 1009
+EP 1029
+DI 10.3934/jimo.2016.12.1009
+DT Review
+PD JUL 2016
+PY 2016
 AB This paper presents a literature review on risk and disruption
    management in production-inventory and supply chain systems. The review
    is conducted on the basis of comparing various works published in this
@@ -871,6 +1477,20 @@ AB This paper presents a literature review on risk and disruption
    models using both hypothetical and real-world problem scenarios.
    Finally, the literature review is summarized and future research
    directions are discussed.
+RI Sarker, Ruhul/B-5677-2012; Paul, Sanjoy/K-2618-2019; Paul, Sanjoy/; Essam, Daryl/
+OI Sarker, Ruhul/0000-0002-1363-2774; Paul, Sanjoy/0000-0001-9523-179X;
+   Essam, Daryl/0000-0002-6923-7079
+TC 74
+Z8 0
+ZA 0
+ZR 0
+ZB 2
+ZS 1
+Z9 86
+C1 Univ New S Wales, Sch Engn & Informat Technol, Canberra, ACT 0200,
+   Australia
+C1 Bangladesh Univ Engn & Technol, Dept Ind & Prod Engn, Dhaka 1000,
+   Bangladesh
 SN 1547-5816
 EI 1553-166X
 DA 2016-04-13
@@ -883,7 +1503,16 @@ AU Llaguno, Arrate
    Campuzano-Bolarin, Francisco
 TI State of the art, conceptual framework and simulation analysis of the
    ripple effect on supply chains
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+VL 60
+IS 6
+BP 2044
+EP 2066
+DI 10.1080/00207543.2021.1877842
 EA FEB 2021
+DT Review
+PD MAR 19 2022
+PY 2022
 AB Supply chains are becoming increasingly sophisticated and vital for many
    firms' competetiveness. Nevertheless, their interrelated, complex and
    global nature also makes them more vulnerable to the risk of their
@@ -900,6 +1529,19 @@ AB Supply chains are becoming increasingly sophisticated and vital for many
    and the possible proactive and reactive measures to mitigate its effects
    and to recover from serious disruptions. The conceptual framework is
    also analyzed and validated by a system dynamics simulation model.
+RI Mula, Josefa/F-4804-2012; CAMPUZANO-BOLARÍN, FRANCISCO/A-2918-2012
+OI Mula, Josefa/0000-0002-8447-3387; CAMPUZANO-BOLARÍN,
+   FRANCISCO/0000-0003-1141-5810
+ZS 0
+ZR 0
+ZB 1
+Z8 1
+ZA 0
+TC 96
+Z9 102
+C1 Univ Politecn Valencia, Res Ctr Prod Management & Engn CIGIP, Alicante,
+   Spain
+C1 Univ Politecn Cartagena, Dept Business Econ, Cartagena, Spain
 SN 0020-7543
 EI 1366-588X
 DA 2021-02-06
@@ -915,7 +1557,16 @@ AU Li, Xingyu
    Ivanov, Dmitry
 TI End-to-end supply chain resilience management using deep learning,
    survival analysis, and explainable artificial intelligence
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+VL 63
+IS 3
+BP 1174
+EP 1202
+DI 10.1080/00207543.2024.2367685
 EA JUN 2024
+DT Review
+PD FEB 1 2025
+PY 2025
 AB This study introduces a data-centric framework for end-to-end supply
    chain resilience management. With major disruptions such as pandemics
    profoundly affecting industries and regions, a wealth of data capturing
@@ -940,6 +1591,22 @@ AB This study introduces a data-centric framework for end-to-end supply
    and assessment, empowering organizations to deploy timely and targeted
    risk mitigation strategies for enhancing overall supply chain
    resilience.
+RI Gao, Robert/O-9339-2014; Nassehi, Aydin/C-6810-2008; Krivtsov, Vasiliy/; Ivanov, Dmitry/HCH-2541-2022
+OI Krivtsov, Vasiliy/0000-0003-1351-6180; Ivanov,
+   Dmitry/0000-0003-4932-9627
+ZA 0
+TC 54
+ZS 0
+ZR 0
+ZB 0
+Z8 0
+Z9 70
+C1 Purdue Univ, Sch Engn Technol, W Lafayette, IN USA
+C1 Ford Motor Co, Dearborn, MI 48124 USA
+C1 Univ Maryland, Dept Mech Engn, College Pk, MD 20742 USA
+C1 Univ Bristol, Sch Elect Elect & Mech Engn, Bristol, England
+C1 Case Western Reserve Univ, Dept Mech & Aerosp Engn, Cleveland, OH USA
+C1 Berlin Sch Econ & Law, Dept Business & Econ, Berlin, Germany
 SN 0020-7543
 EI 1366-588X
 DA 2024-07-06
@@ -950,6 +1617,15 @@ PT J
 AU Datta, P.
 TI Supply network resilience: a systematic literature review and future
    research
+SO INTERNATIONAL JOURNAL OF LOGISTICS MANAGEMENT
+VL 28
+IS 4
+BP 1387
+EP 1424
+DI 10.1108/IJLM-03-2016-0064
+DT Review
+PD 2017
+PY 2017
 AB Purpose - The purpose of this paper is to investigate the knowledge
    existing in the literature on supply chain resilience for identifying
    the supply chain practices adopted for securing resilience in given
@@ -973,6 +1649,14 @@ AB Purpose - The purpose of this paper is to investigate the knowledge
    internal practice; second, the paper highlights the key shortcomings of
    existing literature and provides opportunities for further research and
    improvement.
+ZB 2
+ZR 0
+Z8 1
+TC 103
+ZA 0
+ZS 1
+Z9 125
+C1 Indian Inst Management Calcutta, Kolkata, India
 SN 0957-4093
 EI 1758-6550
 DA 2017-11-19
@@ -985,7 +1669,16 @@ AU Saisridhar, Pranesh
    Avittathur, Balram
 TI Assessing supply chain responsiveness, resilience and robustness
    (Triple-R) by computer simulation: a systematic review of the literature
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+VL 62
+IS 4
+BP 1458
+EP 1488
+DI 10.1080/00207543.2023.2180302
 EA FEB 2023
+DT Review
+PD FEB 16 2024
+PY 2024
 AB Ever more interconnected and complex supply chains increase the risk of
    disruptions and their propagation. Companies need to simultaneously
    develop capabilities such as responsiveness, resilience, and robustness
@@ -1008,6 +1701,21 @@ AB Ever more interconnected and complex supply chains increase the risk of
    Industry 5.0, hybrid simulations, online simulations, and physical
    simulations are required that can model social-ecological aspects and
    contexts.
+RI Saisridhar, Pranesh/; Thürer, Matthias/C-3049-2015; Avittathur, Balram/T-3695-2019
+OI Saisridhar, Pranesh/0000-0001-6624-7565; Thürer,
+   Matthias/0000-0002-2705-969X; Avittathur, Balram/0000-0002-0011-3721
+ZA 0
+ZB 2
+TC 69
+Z8 1
+ZS 0
+ZR 0
+Z9 74
+C1 Indian Inst Management Calcutta, Operat Management Area, Kolkata, India
+C1 Univ Appl Sci Upper Austria, Dept Operat Management, Steyr, Austria
+C1 Tech Univ Chemnitz, Chair Factory Planning & Intralogist, Chemnitz,
+   Germany
+C3 Univ Appl Sci Upper Austria
 SN 0020-7543
 EI 1366-588X
 DA 2023-02-17
@@ -1021,7 +1729,14 @@ AU Sudan, Tapas
    Sharma, Deepika
 TI Supply chain disruption mitigation strategies to advance future research
    agenda: A systematic literature review
+SO JOURNAL OF CLEANER PRODUCTION
+VL 425
+AR 138643
+DI 10.1016/j.jclepro.2023.138643
 EA SEP 2023
+DT Review
+PD NOV 1 2023
+PY 2023
 AB Growing complexity and vulnerability of global supply chains have led to
    significant challenges in supply chain functionality. Organizations face
    shortages, out-of-stock situations, and longer lead times for
@@ -1056,6 +1771,18 @@ AB Growing complexity and vulnerability of global supply chains have led to
    research directions. The analysis has been further enriched by inclusion
    of existing practices to enable the strategists to glean practical
    insights from successful cases.
+RI Kumar Jena, Pabitra/ABB-8917-2020; Sudan, Tapas/GLT-8577-2022; Taggar, Rashi/AAT-1674-2021
+OI Kumar Jena, Pabitra/0000-0002-7746-0916; Sudan,
+   Tapas/0000-0002-1943-6205; Taggar, Rashi/0000-0002-1623-7411
+ZS 0
+TC 44
+Z8 0
+ZR 0
+ZA 0
+ZB 1
+Z9 54
+C1 Shri Mata Vaishno Devi Univ, Sch Business, Katra, Jammu & Kashmir, India
+C1 Indian Inst Technol, Dept Management Studies, New Delhi, India
 SN 0959-6526
 EI 1879-1786
 DA 2023-10-28
@@ -1067,6 +1794,14 @@ AU Hosseini, Seyedmohsen
    Ivanov, Dmitry
    Dolgui, Alexandre
 TI Review of quantitative methods for supply chain resilience analysis
+SO TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW
+VL 125
+BP 285
+EP 307
+DI 10.1016/j.tre.2019.03.001
+DT Review
+PD MAY 2019
+PY 2019
 AB Supply chain resilience (SCR) manifests when the network is capable to
    withstand, adapt, and recover from disruptions to meet customer demand
    and ensure performance. This paper conceptualizes and comprehensively
@@ -1078,6 +1813,21 @@ AB Supply chain resilience (SCR) manifests when the network is capable to
    different levels of capacity resilience. Finally, the gaps and
    limitations of existing SCR literature are identified and future
    research opportunities are suggested.
+RI Ivanov, Dmitry/HCH-2541-2022; Dolgui, Alexandre/K-1688-2013
+OI Ivanov, Dmitry/0000-0003-4932-9627; Dolgui,
+   Alexandre/0000-0003-0527-4716
+Z8 15
+ZB 24
+ZS 3
+TC 902
+ZR 0
+ZA 1
+Z9 1045
+C1 Univ Southern Mississippi, Ind Engn Technol, 730 East Beach Blvd, Long
+   Beach, MS 39560 USA
+C1 Berlin Sch Econ & Law, Supply Chain Management, Berlin, Germany
+C1 IMT Atlantique, Automat Prod & Comp Sci Dept, CNRS, LS2N,UMR 6004, La
+   Chantrerie, France
 SN 1366-5545
 EI 1878-5794
 DA 2019-05-01
@@ -1090,6 +1840,14 @@ AU Torres-Rivera, Alma Delia
    Florencio Da Silva, Rodrigo
 TI The Resilience of the Renewable Energy Electromobility Supply Chain:
    Review and Trends
+SO SUSTAINABILITY
+VL 15
+IS 14
+AR 10838
+DI 10.3390/su151410838
+DT Review
+PD JUL 2023
+PY 2023
 AB Electromobility has been crucial in mitigating transport emissions and
    meeting reduction targets. From this context, this literature review's
    main objective is to analyze the resilience of the electromobility
@@ -1107,6 +1865,21 @@ AB Electromobility has been crucial in mitigating transport emissions and
    preservation under five guidelines: emergency preparedness, monitoring
    and evaluation, sustainable practices, maintenance of essential
    services, and prevention of operational disruptions.
+RI Torres-Rivera, Alma Delia/F-1260-2018; Florencio da Silva, Rodrigo/AAG-6212-2020
+OI Torres-Rivera, Alma Delia/0000-0002-0924-041X; Florencio da Silva,
+   Rodrigo/0000-0002-9644-7645
+TC 13
+ZS 0
+ZR 0
+ZB 1
+Z8 0
+ZA 0
+Z9 15
+C1 UPIEM Inst Politecn Nacl, Gustavo A Madero 07738, Mexico
+C1 Inst Politecn Nacl, Urban Mobil Engn UPIEM, Gustavo A Madero 07738,
+   Mexico
+C1 Inst Politecn Nacl, ESIME Ticoman, Gustavo A Madero 07738, Mexico
+C3 UPIEM Inst Politecn Nacl
 EI 2071-1050
 DA 2023-10-06
 UT WOS:001071430800001
@@ -1119,6 +1892,15 @@ AU Ellinger, Alexander E.
    Armstrong, Craig
 TI Learning orientation, integration, and supply chain risk management in
    Chinese manufacturing firms
+SO INTERNATIONAL JOURNAL OF LOGISTICS-RESEARCH AND APPLICATIONS
+VL 18
+IS 6
+BP 476
+EP 493
+DI 10.1080/13675567.2015.1005008
+DT Review
+PD NOV 2 2015
+PY 2015
 AB Supply chain risk management (SCRM) has become a differentiating
    competency as networks of interdependent organisations strive to manage
    and prevent supply chain disruptions. However, research examining
@@ -1129,6 +1911,21 @@ AB Supply chain risk management (SCRM) has become a differentiating
    complementary parts of a knowledge deployment process that facilitates
    SCRM. The study findings demonstrate that SCI partially mediates the
    relationship between LO and SCRM.
+RI Ellinger, Alexander/; Chen, Haozhe/; Armstrong, Craig/E-9465-2010
+OI Ellinger, Alexander/0000-0003-0336-1517; Chen,
+   Haozhe/0000-0003-2460-8769; 
+ZS 0
+ZB 0
+TC 52
+Z8 0
+ZA 1
+ZR 0
+Z9 57
+C1 Univ Alabama, Culverhouse Coll Commerce & Business Adm, Dept Management
+   & Mkt, Tuscaloosa, AL USA
+C1 E Carolina Univ, Coll Business, Dept Mkt & Supply Chain Management,
+   Greenville, NC 27858 USA
+C1 Hubei Univ Econ, Sun Yat Sen Univ, Sch Business, Wuhan, Peoples R China
 SN 1367-5567
 EI 1469-848X
 DA 2015-11-11
@@ -1141,6 +1938,15 @@ AU Qi, Lian
    Snyder, Lawrence V.
 TI A Continuous-Review Inventory Model with Disruptions at Both Supplier
    and Retailer
+SO PRODUCTION AND OPERATIONS MANAGEMENT
+VL 18
+IS 5
+BP 516
+EP 532
+DI 10.1111/j.1937-5956.2009.01026.x
+DT Review
+PD SEP-OCT 2009
+PY 2009
 AB We consider a continuous-review inventory problem for a retailer who
    faces random disruptions both internally and externally (from its
    supplier). We formulate the expected inventory cost at this retailer and
@@ -1152,6 +1958,19 @@ AB We consider a continuous-review inventory problem for a retailer who
    of the cost function. Our approximation can be solved in closed form,
    which is useful when the model is embedded into more complicated supply
    chain design or management models.
+RI Shen, Zuo-Jun Max/JXM-7549-2024
+OI Shen, Zuo-Jun Max/0000-0003-4538-8312
+TC 71
+ZA 0
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+Z9 80
+C1 Rutgers State Univ, Dept Supply Chain Management & Mkt Sci, Rutgers
+   Business Sch, Newark, NJ 07102 USA
+C1 Univ Calif Berkeley, Dept Ind Engn & Operat Res, Berkeley, CA 94720 USA
+C1 Lehigh Univ, Dept Ind & Syst Engn, Mohler Lab, Bethlehem, PA 18015 USA
 SN 1059-1478
 EI 1937-5956
 DA 2009-09-01
@@ -1162,6 +1981,22 @@ PT J
 AU Solomon, Marius M.
 TI Causes of Supply Chain Disruptions: An Empirical Analysis in Cold Chains
    for Food and Pharmaceuticals
+SO INTERFACES
+VL 46
+IS 2
+BP 200
+EP 201
+DT Book Review
+PD MAR-APR 2016
+PY 2016
+ZA 0
+ZR 0
+ZB 0
+Z8 0
+ZS 0
+TC 0
+Z9 0
+C1 Northeastern Univ, DAmore McKim Sch Business, Boston, MA 02115 USA
 SN 0092-2102
 EI 1526-551X
 DA 2016-04-20
@@ -1175,6 +2010,16 @@ AU Hohenstein, Nils-Ole
    Giunipero, Larry
 TI Research on the phenomenon of supply chain resilience A systematic
    review and paths for further investigation
+SO INTERNATIONAL JOURNAL OF PHYSICAL DISTRIBUTION & LOGISTICS MANAGEMENT
+VL 45
+IS 1-2
+SI SI
+BP 90
+EP 117
+DI 10.1108/IJPDLM-05-2013-0128
+DT Review
+PD 2015
+PY 2015
 AB Purpose - This paper provides a robust and structured literature review
    on supply chain resilience (SCRES), the supply chain's ability to be
    prepared for unexpected risk events, responding and recovering quickly
@@ -1199,6 +2044,16 @@ AB Purpose - This paper provides a robust and structured literature review
    illustrates SCRES measurement through performance metrics. It provides a
    comprehensive SCRES framework with propositions and indicates gaps in
    the literature to target for further development.
+ZS 9
+ZA 2
+TC 612
+ZB 6
+ZR 0
+Z8 4
+Z9 758
+C1 Friedrich Alexander Univ, Dept Supply Chain Management, Nurnberg,
+   Germany
+C1 Florida State Univ, Coll Business, Tallahassee, FL 32306 USA
 SN 0960-0035
 EI 1758-664X
 DA 2015-01-01
@@ -1213,6 +2068,16 @@ AU Snyder, Lawrence V.
    Schmitt, Amanda J.
    Sinsoysal, Burcu
 TI OR/MS models for supply chain disruptions: a review
+SO IIE TRANSACTIONS
+VL 48
+IS 2
+SI SI
+BP 89
+EP 109
+DI 10.1080/0740817X.2015.1067735
+DT Review
+PD FEB 1 2016
+PY 2016
 AB We review the Operations Research/Management Science (OR/MS) literature
    on supply chain disruptions in order to take stock of the research to
    date and to provide an overview of the research questions that have been
@@ -1222,6 +2087,24 @@ AB We review the Operations Research/Management Science (OR/MS) literature
    evaluating supply disruptions; strategic decisions; sourcing decisions;
    contracts and incentives; inventory; and facility location. We conclude
    with a discussion of future research directions.
+RI Atan, Zumbul/L-2002-2019; Rong, Ying/J-5442-2017
+OI Atan, Zumbul/0000-0003-1328-1756; Rong, Ying/0000-0003-3360-1868
+ZS 1
+ZA 0
+ZR 0
+TC 605
+ZB 11
+Z8 20
+Z9 723
+C1 Lehigh Univ, Dept Ind & Syst Engn, Bethlehem, PA 18015 USA
+C1 Eindhoven Univ Technol, Dept Ind Engn & Innovat Sci, NL-5600 MB
+   Eindhoven, Netherlands
+C1 City Univ Hong Kong, Dept Management Sci, Hong Kong, Hong Kong, Peoples
+   R China
+C1 Shanghai Jiao Tong Univ, Dept Operat Management, Shanghai 200030,
+   Peoples R China
+C1 McKinsey & Co Inc, Philadelphia, PA USA
+C1 Turkcell, Istanbul, Turkey
 SN 0740-817X
 EI 1545-8830
 DA 2016-02-01
@@ -1234,7 +2117,16 @@ AU Manhart, Pam
    Blackhurst, Jennifer
 TI A Meta-Analytic Review of Supply Chain Risk Management: Assessing
    Buffering and Bridging Strategies and Firm Performance
+SO JOURNAL OF SUPPLY CHAIN MANAGEMENT
+VL 56
+IS 3
+BP 66
+EP 87
+DI 10.1111/jscm.12219
 EA FEB 2020
+DT Review
+PD JUL 2020
+PY 2020
 AB Supply chain risk management has received considerable attention as
    firms experience more frequent and severe impact disruptions. We
    meta-analytically test the Bode et al. (2011) framework of buffering and
@@ -1248,6 +2140,19 @@ AB Supply chain risk management has received considerable attention as
    these relationships. Although supply chain risk management strategies
    may be applied universally, their efficacy varies by culture. In
    conclusion, we identify and provide guidance for future work.
+RI Manhart, Pam/ABB-2110-2021; Blackhurst, Jennifer/OUH-9547-2025; Summers, James/AAB-2348-2020
+OI Manhart, Pam/0000-0002-0489-1352; Blackhurst,
+   Jennifer/0000-0003-2193-1501; Summers, James/0000-0002-4438-040X
+TC 145
+Z8 0
+ZA 0
+ZB 0
+ZR 0
+ZS 1
+Z9 161
+C1 Baylor Univ, Waco, TX 76798 USA
+C1 Iowa State Univ, Ames, IA USA
+C1 Univ Iowa, Iowa City, IA 52242 USA
 SN 1523-2409
 EI 1745-493X
 DA 2020-02-27
@@ -1260,6 +2165,14 @@ AU Heckmann, Iris
    Nickel, Stefan
 TI A critical review on supply chain risk - Definition, measure and
    modeling
+SO OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+VL 52
+BP 119
+EP 132
+DI 10.1016/j.omega.2014.10.004
+DT Review
+PD APR 2015
+PY 2015
 AB Economic systems are increasingly prone to complexity and uncertainty.
    Therefore, making well-informed decisions requires risk analysis,
    control and mitigation. In some areas such as finance, insurance, crisis
@@ -1273,6 +2186,20 @@ AB Economic systems are increasingly prone to complexity and uncertainty.
    quantitative supply chain risk management are reviewed by setting the
    focus on the definition of supply chain risk and related concepts. (C)
    2014 Elsevier Ltd. All rights reserved.
+RI Comes, Tina/AAM-2361-2020
+OI Comes, Tina/0000-0002-8721-8314
+Z8 5
+ZB 13
+ZS 8
+ZA 2
+ZR 0
+TC 646
+Z9 790
+C1 Res Ctr Informat Technol FZI, Dept Logist & Supply Chain Optimizat,
+   Karlsruhe, Germany
+C1 Univ Agder UiA, Ctr Integrated Emergency Management, Grimstad, Norway
+C1 Karlsruhe Inst Technol, Inst Operat Res, D-76021 Karlsruhe, Germany
+C3 Res Ctr Informat Technol FZI
 SN 0305-0483
 DA 2015-04-01
 UT WOS:000349586800011
@@ -1285,7 +2212,16 @@ AU Golan, Maureen S.
    Linkov, Igor
 TI Supply chain resilience for vaccines: review of modeling approaches in
    the context of the COVID-19 pandemic
+SO INDUSTRIAL MANAGEMENT & DATA SYSTEMS
+VL 121
+IS 7
+BP 1723
+EP 1748
+DI 10.1108/IMDS-01-2021-0022
 EA MAY 2021
+DT Review
+PD JUL 5 2021
+PY 2021
 AB Purpose Despite rapid success in bringing SARS-CoV-2 vaccines to
    distribution by multiple pharmaceutical corporations, supply chain
    failures in production and distribution can plague pandemic recovery.
@@ -1316,6 +2252,16 @@ AB Purpose Despite rapid success in bringing SARS-CoV-2 vaccines to
    chain managers, regulatory agencies and corporate stakeholders and are
    especially relevant for pandemic response, including application to the
    SARS-CoV-2 vaccines.
+RI Linkov, Igor/AAH-5981-2019
+OI Linkov, Igor/0000-0002-0823-8107
+ZR 0
+ZS 0
+Z8 0
+ZB 3
+ZA 0
+TC 67
+Z9 81
+C1 US Army Engineer Res & Dev Ctr, Vicksburg, MS 39180 USA
 SN 0263-5577
 EI 1758-5783
 DA 2021-06-09
@@ -1329,6 +2275,14 @@ AU Liu, Congyang
    Potter, Andrew
 TI Can Digital Twin Technology Enhance Supply-Chain Resilience? A
    Systematic Literature Review
+SO SUSTAINABILITY
+VL 18
+IS 5
+AR 2361
+DI 10.3390/su18052361
+DT Review
+PD FEB 28 2026
+PY 2026
 AB Digital twin technology (DTT) creates a virtual replica of a physical
    object, system, or process and uses real-time data to support
    monitoring, analysis, and control. Although DTT is increasingly
@@ -1351,6 +2305,16 @@ AB Digital twin technology (DTT) creates a virtual replica of a physical
    digital technologies often enables more advanced functionality. Overall,
    the study provides a stage-based consolidation of DTT capabilities,
    benefits, and barriers to guide research and managerial deployment.
+OI Liu, Congyang/0009-0000-7820-3682; Potter, Andrew/0000-0002-3157-9735
+ZB 0
+ZA 0
+TC 0
+ZR 0
+ZS 0
+Z8 0
+Z9 0
+C1 Cardiff Univ, Cardiff Business Sch, Logist & Operat Management Sect,
+   Cardiff CF10 3EU, Wales
 EI 2071-1050
 DA 2026-03-16
 UT WOS:001713823100001
@@ -1361,6 +2325,13 @@ AU Sarwar, Dilshad
    Rye, Sara
 TI The impact of the Russia-Ukraine war on global supply chains: a
    systematic literature review
+SO FRONTIERS IN SUSTAINABLE FOOD SYSTEMS
+VL 9
+AR 1648918
+DI 10.3389/fsufs.2025.1648918
+DT Review
+PD SEP 29 2025
+PY 2025
 AB This systematic review examines the multifaceted impacts of the
    Russia-Ukraine war on global supply chains. Following PRISMA
    methodology, we analyze 22 peer-reviewed studies published between 2022
@@ -1379,6 +2350,17 @@ AB This systematic review examines the multifaceted impacts of the
    both academic understanding of supply chain vulnerability to
    geopolitical shocks and provides practical insights for logistics
    professionals developing resilience strategies.
+RI Rye, Sara/ABC-8898-2020
+OI Rye, Sara/0000-0001-5264-149X
+ZA 0
+Z8 0
+ZB 1
+ZS 0
+ZR 0
+TC 10
+Z9 18
+C1 Northeastern Univ London, Fac Comp Math Engn & Nat Sci, London, England
+C3 Northeastern Univ London
 EI 2571-581X
 DA 2025-10-17
 UT WOS:001591667000001
@@ -1391,7 +2373,16 @@ AU Fischer-Pressler, Diana
    Fischbach, Kai
    Schoder, Detlef
 TI Information technology and risk management in supply chains
+SO INTERNATIONAL JOURNAL OF PHYSICAL DISTRIBUTION & LOGISTICS MANAGEMENT
+VL 50
+IS 2
+BP 233
+EP 254
+DI 10.1108/IJPDLM-04-2019-0119
 EA APR 2020
+DT Review
+PD MAR 2 2020
+PY 2020
 AB Purpose This paper reviews and classifies research connecting supply
    chain risk management (SCRM) and information technology (IT) and derives
    a structured proposal for fruitful research directions.
@@ -1412,6 +2403,17 @@ AB Purpose This paper reviews and classifies research connecting supply
    understanding of the relationship of SCRM and IT. In addition, it
    presents and discusses nine areas for further research aimed at
    mitigating the gaps identified at the intersection of SCRM and IT.
+RI Eismann, Kathrin/; Fischbach, Kai/AAI-9700-2020; Schoder, Detlef/KSM-9083-2024
+OI Eismann, Kathrin/0000-0001-5925-7271; 
+Z8 2
+ZA 0
+ZR 0
+ZB 1
+TC 27
+ZS 1
+Z9 34
+C1 Univ Bamberg, Dept Informat Syst & Social Networks, Bamberg, Germany
+C1 Univ Cologne, Dept Informat Syst & Informat Management, Cologne, Germany
 SN 0960-0035
 EI 1758-664X
 DA 2020-04-28
@@ -1426,7 +2428,14 @@ AU Bruckler, Martin
    Tuma, Axel
 TI Review of metrics to assess resilience capacities and actions for supply
    chain resilience
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+VL 192
+AR 110176
+DI 10.1016/j.cie.2024.110176
 EA MAY 2024
+DT Review
+PD JUN 2024
+PY 2024
 AB Efficiency and profitability are the main drivers of globalization and
    have led to long and complex supply chains. Recent disturbances such as
    COVID-19 or the Suez Canal obstruction caused severe supply disruptions
@@ -1451,6 +2460,23 @@ AB Efficiency and profitability are the main drivers of globalization and
    multi-criteria optimization models for decision-making and explore the
    interplay between economic efficiency, environmental sustainability, and
    resilience.
+RI Thorenz, Andrea/; Messmann, Lukas/JPL-3403-2023; Wietschel, Lars/JXM-9411-2024; Tuma, Axel/; Bruckler, Martin/
+OI Thorenz, Andrea/0000-0002-0123-6109; Messmann,
+   Lukas/0000-0001-6814-8659; Tuma, Axel/0000-0002-5532-9837; Bruckler,
+   Martin/0000-0002-2033-5671
+TC 63
+ZA 0
+ZS 0
+Z8 0
+ZB 4
+ZR 0
+Z9 68
+C1 Univ Augsburg, Inst Mat Resource Management, Resource Lab, Univ Str 12,
+   D-86159 Augsburg, Germany
+C1 Univ Augsburg, Chair Prod & Supply Chain Management, Univ Str 16,
+   D-86159 Augsburg, Germany
+C1 Univ Augsburg, Ctr Climate Resilience, Univ Str 12, D-86159 Augsburg,
+   Germany
 SN 0360-8352
 EI 1879-0550
 DA 2024-06-11
@@ -1460,6 +2486,15 @@ ER
 PT J
 AU Tang, Christopher S.
 TI Perspectives in supply chain risk management
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+VL 103
+IS 2
+BP 451
+EP 488
+DI 10.1016/j.ijpe.2005.12.006
+DT Review
+PD OCT 2006
+PY 2006
 AB To gain cost advantage and market share, many firms implemented various
    initiatives such as outsourced manufacturing and product variety. These
    initiatives are effective in a stable environment, but they could make a
@@ -1475,6 +2510,16 @@ AB To gain cost advantage and market share, many firms implemented various
    Third, by highlighting the gap between theory and practice, we hope to
    motivate researchers to develop new models for mitigating supply chain
    disruptions. (c) 2006 Elsevier B.V. All rights reserved.
+RI tang, christopher/JOZ-4375-2023
+OI tang, christopher/0000-0001-9597-7620
+ZS 13
+ZR 0
+TC 1621
+ZB 17
+Z8 38
+ZA 2
+Z9 1988
+C1 Univ Calif Los Angeles, Anderson Sch, Los Angeles, CA 90095 USA
 SN 0925-5273
 EI 1873-7579
 DA 2006-10-01
@@ -1489,6 +2534,14 @@ AU Alshahapy, Hala
    Matisoff, Daniel
 TI Modern challenges facing electric vehicle adoption: a review of barriers
    to adoption, supply chain challenges, and equity
+SO ENVIRONMENTAL RESEARCH LETTERS
+VL 20
+IS 2
+AR 023002
+DI 10.1088/1748-9326/ada6de
+DT Review
+PD FEB 1 2025
+PY 2025
 AB The automotive industry's shift to electric vehicles (EVs) faces
    persistent barriers in pricing, financing, and charging infrastructure,
    particularly affecting low-income and disadvantaged individuals. These
@@ -1515,6 +2568,27 @@ AB The automotive industry's shift to electric vehicles (EVs) faces
    achieving a sustainable and inclusive transition to EVs delves into the
    dynamics of these challenges, highlighting the need for comprehensive
    solutions.
+RI Matisoff, Daniel/; Bozeman III, Joe/ABC-2920-2020; Nock, Destenie/AAM-7586-2020; Carley, Sanya/
+OI Matisoff, Daniel/0000-0003-4575-5282; Bozeman III,
+   Joe/0000-0001-9791-1043; Nock, Destenie/0000-0003-1739-7027; Carley,
+   Sanya/0000-0001-9599-4519
+TC 12
+ZB 0
+ZR 0
+ZS 0
+ZA 0
+Z8 0
+Z9 13
+C1 Georgia Inst Technol, Sch Publ Policy, 685 Cherry St NW, Atlanta, GA
+   30332 USA
+C1 Georgia Inst Technol, Sch Civil & Environm Engn, 790 Atlantic Dr NW,
+   Atlanta, GA 30332 USA
+C1 Univ Penn, Stuart Weitzman Sch Design, 210 S 34th St, Philadelphia, PA
+   19104 USA
+C1 Carnegie Mellon Univ, Coll Engn, Dept Mech Engn Engn & Publ Policy, 5000
+   Forbes Ave,Porter Hall 100A, Pittsburgh, PA 15213 USA
+C1 Carnegie Mellon Univ, Coll Engn, Civil & Environm Engn, 5000 Forbes
+   Ave,Porter Hall 100A, Pittsburgh, PA 15213 USA
 SN 1748-9326
 DA 2025-02-09
 UT WOS:001413001100001
@@ -1526,7 +2600,11 @@ AU Wu, Jun
    Gonzalez, Ernesto D. R. Santibanez
 TI Disruptions in the food supply chain during pandemic: a systematic
    review
+SO ENVIRONMENT DEVELOPMENT AND SUSTAINABILITY
+DI 10.1007/s10668-025-06060-3
 EA MAR 2025
+DT Review; Early Access
+PY 2025
 AB The COVID-19 pandemic has posed unprecedented challenges to the global
    food supply chain (FSC). This study reviewed 194 academic papers to
    comprehensively assess the impact of the epidemic on FSC. The findings
@@ -1549,6 +2627,18 @@ AB The COVID-19 pandemic has posed unprecedented challenges to the global
    both scholars and practitioners, enhancing their understanding of the
    FSC's vulnerability during emergencies and offering a pathway towards a
    more resilient food system.
+RI SANTIBANEZ GONZALEZ, ERNESTO DEL ROSARIO/AAF-7331-2020
+OI SANTIBANEZ GONZALEZ, ERNESTO DEL ROSARIO/0000-0002-5753-8325
+ZB 0
+ZS 0
+TC 3
+ZA 0
+ZR 0
+Z8 0
+Z9 5
+C1 Beijing Univ Chem Technol, Sch Econ & Management, Beijing, Peoples R
+   China
+C1 Univ Talca, Fac Engn, Ind Engn Dept, CES4 0, Curico, Chile
 SN 1387-585X
 EI 1573-2975
 DA 2025-03-08

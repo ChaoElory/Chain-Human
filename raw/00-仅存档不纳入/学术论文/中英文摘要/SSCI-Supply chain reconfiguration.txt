@@ -7,7 +7,16 @@ AU Al Naimi, Maryam
    Bin Sabir, Lamay
 TI A systematic mapping review exploring 10 years of research on supply
    chain resilience and reconfiguration
+SO INTERNATIONAL JOURNAL OF LOGISTICS-RESEARCH AND APPLICATIONS
+VL 25
+IS 8
+BP 1191
+EP 1218
+DI 10.1080/13675567.2021.1893288
 EA MAR 2021
+DT Review
+PD AUG 3 2022
+PY 2022
 AB Supply chain resilience and reconfiguration are emerging disciplines
    that allow supply chains to recover from events and quickly return to
    normal or equilibrium levels of operations. This paper aims to provide a
@@ -23,6 +32,17 @@ AB Supply chain resilience and reconfiguration are emerging disciplines
    best of the authors' knowledge, this is the first systematic mapping
    study conducted on supply chain resilience and reconfiguration
    literature.
+OI Faisal, Mohd. Nishat/0000-0002-9778-0810
+ZR 0
+ZB 2
+Z8 0
+ZA 0
+ZS 0
+TC 57
+Z9 66
+C1 Qatar Univ, Coll Business & Econ, Doha, Qatar
+C1 Qatar Univ, Coll Business & Econ, Dept Management & Mkt, Doha, Qatar
+C1 Aligarh Muslim Univ, Dept Business Adm, Aligarh, Uttar Pradesh, India
 SN 1367-5567
 EI 1469-848X
 DA 2021-04-03
@@ -36,6 +56,14 @@ AU Vidha, Muhammad
    Ahmed, Vian
 TI Tariff Shocks and Global Supply Chains: Network Propagation, Logistics
    Resilience, and System Reconfiguration-A Systematic Review
+SO IEEE ACCESS
+VL 14
+BP 91479
+EP 91505
+DI 10.1109/ACCESS.2026.3703535
+DT Review
+PD 2026
+PY 2026
 AB Tariffs have re-emerged as central policy instruments, yet their supply
    chain effects are often reduced to border-level price shocks. This
    systematic review synthesizes post-2018 evidence on how tariff shocks
@@ -65,6 +93,16 @@ AB Tariffs have re-emerged as central policy instruments, yet their supply
    constraints, relationship re-matching dynamics, and empirically grounded
    operational and network models to support managerial decision-making and
    resilient logistics system design.
+RI Saihi, Afef/KIE-8264-2024
+ZR 0
+ZA 0
+ZB 0
+ZS 0
+Z8 0
+TC 0
+Z9 0
+C1 Amer Univ Sharjah, Dept Ind Engn, Sharjah, U Arab Emirates
+C1 Khalifa Univ, Dept Management Sci & Engn, Abu Dhabi, U Arab Emirates
 SN 2169-3536
 DA 2026-07-09
 UT WOS:001807917300003
@@ -77,6 +115,14 @@ AU Li, Yan
    Huang, Qingbo
 TI Manufacturing Supply Chain Resilience Amid Global Value Chain
    Reconfiguration: An Enhanced Bibliometric-Systematic Literature Review
+SO SYSTEMS
+VL 13
+IS 10
+AR 873
+DI 10.3390/systems13100873
+DT Review
+PD OCT 5 2025
+PY 2025
 AB Global Value Chains (GVCs) have driven the worldwide dispersion of
    manufacturing but remain highly vulnerable to macro-level shocks,
    including financial crises, geopolitical tensions, and the COVID-19
@@ -100,6 +146,17 @@ AB Global Value Chains (GVCs) have driven the worldwide dispersion of
    visualization. Third, at the managerial level, it provides actionable
    guidance for firms, industry alliances, and policymakers to align MSCR
    strategies with the dynamics of global production networks.
+RI XIA, XINXIN/JVZ-2559-2024; Li, Yan/
+OI Li, Yan/0000-0001-5937-7775
+ZR 0
+Z8 0
+ZS 0
+ZB 0
+TC 4
+ZA 0
+Z9 5
+C1 Dalian Maritime Univ, Sch Maritime Econ & Management, Dalian 116026,
+   Peoples R China
 EI 2079-8954
 DA 2025-11-01
 UT WOS:001602197500001
@@ -111,6 +168,14 @@ AU Korder, Benjamin
    Konle, Matthias
 TI Simulation Methods and Digital Strategies for Supply Chains Facing
    Disruptions: Insights from a Systematic Literature Review
+SO SUSTAINABILITY
+VL 16
+IS 14
+AR 5957
+DI 10.3390/su16145957
+DT Review
+PD JUL 2024
+PY 2024
 AB Supply chain disruptions pose significant economic stability and growth
    challenges, impacting industries globally. This study aims to
    systematically review the literature on the use of simulation tools in
@@ -139,6 +204,23 @@ AB Supply chain disruptions pose significant economic stability and growth
    Nations' Sustainable Development Goals. The identified research gaps
    offer a roadmap for future scholarly exploration and practical
    implementation.
+RI Maheut, Julien/H-6800-2012
+OI Maheut, Julien/0000-0002-5796-9053
+ZS 0
+Z8 0
+TC 13
+ZR 0
+ZB 0
+ZA 0
+Z9 14
+C1 SAP Deutschland SE & Co KG, Cloud Success Serv, BTS CSCO Advisory, Hasso
+   Plattner Ring 7, D-69190 Walldorf, Germany
+C1 Univ Politecn Valencia, Business Org Dept, ROGLE, Camino Vera S-N,
+   Valencia 46022, Spain
+C1 Univ Appl Sci Ansbach, Dept Ind Engn, Residenzstr 8, D-91522 Ansbach,
+   Germany
+C3 SAP Deutschland SE & Co KG
+C3 Univ Appl Sci Ansbach
 EI 2071-1050
 DA 2024-07-01
 UT WOS:001277630300001
@@ -151,6 +233,14 @@ AU Liu, Congyang
    Potter, Andrew
 TI Can Digital Twin Technology Enhance Supply-Chain Resilience? A
    Systematic Literature Review
+SO SUSTAINABILITY
+VL 18
+IS 5
+AR 2361
+DI 10.3390/su18052361
+DT Review
+PD FEB 28 2026
+PY 2026
 AB Digital twin technology (DTT) creates a virtual replica of a physical
    object, system, or process and uses real-time data to support
    monitoring, analysis, and control. Although DTT is increasingly
@@ -173,6 +263,16 @@ AB Digital twin technology (DTT) creates a virtual replica of a physical
    digital technologies often enables more advanced functionality. Overall,
    the study provides a stage-based consolidation of DTT capabilities,
    benefits, and barriers to guide research and managerial deployment.
+OI Liu, Congyang/0009-0000-7820-3682; Potter, Andrew/0000-0002-3157-9735
+ZB 0
+ZA 0
+TC 0
+ZR 0
+ZS 0
+Z8 0
+Z9 0
+C1 Cardiff Univ, Cardiff Business Sch, Logist & Operat Management Sect,
+   Cardiff CF10 3EU, Wales
 EI 2071-1050
 DA 2026-03-16
 UT WOS:001713823100001
@@ -184,7 +284,11 @@ AU Palhares, Rafael De Azevedo
    Ganga, Gilberto Miller Devos
 TI The rhythm of innovation: digital solutions enabled by Industry 4.0 for
    the music industry's supply chain
+SO BUSINESS PROCESS MANAGEMENT JOURNAL
+DI 10.1108/BPMJ-11-2025-1852
 EA MAR 2026
+DT Review; Early Access
+PY 2026
 AB Purpose - This study aims to examine how Industry 4.0-enabled Digital
    Innovation Solutions reconfigure business processes across the Music
    Industry Supply Chain from a Business Process Management perspective.
@@ -263,6 +367,19 @@ AB Purpose - This study aims to examine how Industry 4.0-enabled Digital
    Readiness Levels, the study provides a novel process-oriented framework
    that extends BPM theory and supports informed decision making in
    complex, digitally mediated ecosystems.
+RI godinho filho, moacir/I-5099-2013; Ganga, Gilberto Miller Devós/B-1120-2013; Palhares, Rafael/
+OI Ganga, Gilberto Miller Devós/0000-0001-9328-5727; Palhares,
+   Rafael/0009-0003-2844-9192
+ZB 0
+ZS 0
+Z8 0
+ZR 0
+TC 0
+ZA 0
+Z9 0
+C1 Univ Fed Sao Carlos, Dept Prod Engn, Sao Carlos, Brazil
+C1 EM Normandie Business Sch, Le Havre, France
+C3 EM Normandie Business Sch
 SN 1463-7154
 EI 1758-4116
 DA 2026-03-26
@@ -273,6 +390,15 @@ PT J
 AU Beal-Partyka, Raul
    Laureano-Paiva, Ely
 TI Bridging the gap: state-of-the-art on vertical integration
+SO RAUSP Management Journal
+VL 59
+IS 3
+BP 229
+EP 255
+DI 10.1108/rausp-03-2023-0041
+DT review-article
+PD 2024-09
+PY 2024
 AB Purpose This paper aims to present the vertical integration
    state-of-the-art and propose an expansion of the operations and supply
    chain management (OSCM) field by identifying gaps and bottlenecks. 
@@ -298,6 +424,18 @@ AB Purpose This paper aims to present the vertical integration
    to obtain a competitive advantage, making them more resilient. 
    Originality/value This paper addresses gaps in the vertical integration
    theme and provides insights for future research development.
+RI Paiva, Ely/G-9494-2012
+Z8 0
+TC 2
+ZS 0
+ZR 0
+ZB 0
+ZA 0
+Z9 4
+C1 São Paulo School of Business Administration of the Getulio Vargas
+   Foundation (FGV EAESP), Brazil
+C3 São Paulo School of Business Administration of the Getulio Vargas
+   Foundation (FGV EAESP)
 SN 2531-0488
 DA 2024-12-21
 UT SCIELO:S2531-04882024000300229
@@ -310,7 +448,11 @@ AU Xu, Jun
    Xu, Xueguo
 TI Stage-specific impacts of digital technologies on supply chain
    resilience: meta-analytic evidence for continuous process improvement
+SO BUSINESS PROCESS MANAGEMENT JOURNAL
+DI 10.1108/BPMJ-04-2025-0550
 EA OCT 2025
+DT Review; Early Access
+PY 2025
 AB Purpose This study quantifies how digital technologies enhance business
    process resilience across supply chain stages, addressing a critical gap
    in process management literature on technology-enabled continuous
@@ -339,6 +481,18 @@ AB Purpose This study quantifies how digital technologies enhance business
    learning" processes. The identified "diminishing digital dividend"
    phenomenon challenges assumptions that technology alone ensures process
    resilience.
+RI liu, fengmei/LLK-8011-2024; Xu, Jun/
+OI Xu, Jun/0000-0002-0557-2046
+TC 6
+ZA 0
+ZS 0
+ZR 0
+Z8 0
+ZB 0
+Z9 6
+C1 East China Normal Univ, Dept Educ Informat Technol, Shanghai, Peoples R
+   China
+C1 Shanghai Univ, Sch Management, Shanghai, Peoples R China
 SN 1463-7154
 EI 1758-4116
 DA 2025-10-09
@@ -349,7 +503,14 @@ PT J
 AU Alarcon-Gerbier, Eduardo
    Buscher, Udo
 TI Modular and mobile facility location problems: A systematic review
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+VL 173
+AR 108734
+DI 10.1016/j.cie.2022.108734
 EA OCT 2022
+DT Review
+PD NOV 2022
+PY 2022
 AB Supply chain planning is based on the assumption of fixed production
    locations. This appears justified insofar as location decisions are
    usually strategic in nature and, traditionally, cannot be revised in the
@@ -364,6 +525,19 @@ AB Supply chain planning is based on the assumption of fixed production
    objectives, and main characteristics. Finally, we categorize case
    studies that have been presented in the literature and identify research
    trends for further developments in this field.
+OI Alarcon-Gerbier, Eduardo/0000-0002-9595-2738; Buscher,
+   Udo/0000-0003-4711-2184
+Z8 0
+ZA 0
+TC 40
+ZB 1
+ZR 0
+ZS 0
+Z9 40
+C1 Tech Univ Dresden, Boysen TU Dresden Res Training Grp, Chemnitzer Str
+   48B, D-01187 Dresden, Germany
+C1 Tech Univ Dresden, Business Adm, Esp Ind Management, Helmholtzstr 10,
+   D-01069 Dresden, Germany
 SN 0360-8352
 EI 1879-0550
 DA 2022-11-18
@@ -373,6 +547,15 @@ ER
 PT J
 AU Levin, M. Sh.
 TI Combinatorial optimization in system configuration design
+SO AUTOMATION AND REMOTE CONTROL
+VL 70
+IS 3
+BP 519
+EP 561
+DI 10.1134/S0005117909030187
+DT Review
+PD MAR 2009
+PY 2009
 AB The significance of systems configurations has been increased in many
    applied domains (e.g., software, hardware, manufacturing systems,
    communication systems, supply chain systems, solving strategies, modular
@@ -394,6 +577,16 @@ AB The significance of systems configurations has been increased in many
    problem, graph coloring problems, morphological clique problem (with
    compatibility of system components), multipartite clique and their
    modifications, spanning trees problems.
+RI Levin, Mark/L-4833-2017
+OI Levin, Mark/0000-0002-2141-315X
+ZA 0
+ZR 0
+TC 20
+ZS 0
+ZB 0
+Z8 0
+Z9 24
+C1 Russian Acad Sci, Inst Informat Transmiss Problems, Moscow, Russia
 SN 0005-1179
 EI 1608-3032
 DA 2009-03-01
@@ -406,6 +599,15 @@ AU Novais, Luciano R.
    Bruque, Sebastian
 TI Supply chain flexibility and mass personalization: a systematic
    literature review
+SO JOURNAL OF BUSINESS & INDUSTRIAL MARKETING
+VL 34
+IS 8
+BP 1791
+EP 1812
+DI 10.1108/JBIM-03-2019-0105
+DT Review
+PD OCT 7 2019
+PY 2019
 AB Purpose This paper aims to explore the current state of research on
    supply chain flexibility (SCF) and mass personalization (MP) to identify
    the literature findings to date, research gaps and to provide guidelines
@@ -436,6 +638,17 @@ AB Purpose This paper aims to explore the current state of research on
    lines in the SCF-MP area are highlighted. The information presented in
    this paper improves the literature on the advances in the SCF use as a
    productive response to MP environments.
+RI Maqueira, Juan Manuel/M-8269-2013
+OI Maqueira, Juan Manuel/0000-0001-5159-5970
+TC 29
+ZB 1
+ZS 0
+ZA 0
+Z8 0
+ZR 0
+Z9 34
+C1 Univ Politecn Valencia, CIGIP, Valencia, Spain
+C1 Univ Jaen, Jaen, Spain
 SN 0885-8624
 EI 2052-1189
 DA 2019-10-07
@@ -448,6 +661,16 @@ AU Queiroz, Maciel M.
    Bonilla, Silvia H.
 TI Blockchain and supply chain management integration: a systematic review
    of the literature
+SO SUPPLY CHAIN MANAGEMENT-AN INTERNATIONAL JOURNAL
+VL 25
+IS 2
+SI SI
+BP 241
+EP 254
+DI 10.1108/SCM-03-2018-0143
+DT Review
+PD 2020
+PY 2020
 AB Purpose
    This paper aims to identify, analyse and organise the literature about
    blockchains in supply chain management (SCM) context (blockchain-SCM
@@ -479,6 +702,20 @@ AB Purpose
    This study is the first attempt to synthesise existing publications
    about the blockchain-SCM integration, shedding light on the disruption
    caused by, and the necessity of, the SCM reconfigurations.
+RI TELLES, RENATO/T-4514-2018; M. Queiroz, Maciel/F-1274-2014
+OI TELLES, RENATO/0000-0002-1123-668X; M. Queiroz,
+   Maciel/0000-0002-6025-9191
+Z8 7
+ZA 0
+TC 637
+ZS 4
+ZB 18
+ZR 0
+Z9 755
+C1 Univ Sao Paulo, Escola Politecn, Dept Naval Architecture & Ocean Engn,
+   Sao Paulo, Brazil
+C1 Univ Paulista, Post Grad Program Business Management, Sao Paulo, Brazil
+C1 Univ Paulista, Post Grad Program Prod Engn, Sao Paulo, Brazil
 SN 1359-8546
 EI 1758-6852
 DA 2020-03-05
@@ -495,7 +732,14 @@ AU Huang, Iona Y.
    Lowenberg-DeBoer, James
 TI Resilience of food supply systems to sudden shocks: A global review and
    narrative synthesis
+SO GLOBAL FOOD SECURITY-AGRICULTURE POLICY ECONOMICS AND ENVIRONMENT
+VL 44
+AR 100842
+DI 10.1016/j.gfs.2025.100842
 EA MAR 2025
+DT Review
+PD MAR 2025
+PY 2025
 AB Global food supply systems (FSS) are increasingly tested by sudden
    shocks such as pandemics, geopolitical conflicts, and extreme weather
    events, that demand adaptive and transformative responses. This
@@ -525,6 +769,24 @@ AB Global food supply systems (FSS) are increasingly tested by sudden
    multi-scalar approaches, and expanded empirical evidence are crucial for
    guiding policy and practice, ultimately enabling FSS to withstand and
    learn from sudden shocks.
+RI Tremma, Ourania/; FORERO, OSCAR/LJM-5403-2024; Wagner-Medina, Erika Vanessa/; Huang, Iona Yuelu/C-1703-2015
+OI Tremma, Ourania/0000-0002-8182-847X; FORERO, OSCAR/0000-0001-5679-4864;
+   Wagner-Medina, Erika Vanessa/0000-0003-3341-1300; Huang, Iona
+   Yuelu/0000-0003-0559-3952
+TC 13
+ZA 0
+ZS 0
+ZR 0
+ZB 2
+Z8 0
+Z9 14
+C1 Harper Adams Univ, Harper Adams Business Sch, Newport TF10 8NB, Shrops,
+   Wales
+C1 Corp Colombiana Invest Agr AGROSAVIA, CI Tibaitata, Mosquera 250047,
+   Cundinamarca, Colombia
+C1 Corp Colombiana Invest Agr AGROSAVIA, CI Libertad,Km 17 Via Puerto
+   Lopez, Villavicencio, Meta, Colombia
+C1 Univ Coll Dublin, Sch Agr & Food Sci, Belfield D04 V1W8, Dublin, Ireland
 SN 2211-9124
 DA 2025-03-15
 UT WOS:001439979400001
@@ -535,6 +797,14 @@ AU Shirkoohi, Sina Mirzaye
    Mohiuddin, Muhammad
 TI Creating Value in Metaverse-Driven Global Value Chains: Blockchain
    Integration and the Evolution of International Business
+SO JOURNAL OF THEORETICAL AND APPLIED ELECTRONIC COMMERCE RESEARCH
+VL 20
+IS 2
+AR 126
+DI 10.3390/jtaer20020126
+DT Review
+PD JUN 2 2025
+PY 2025
 AB The convergence of blockchain and metaverse technologies is poised to
    redefine how Global Value Chains (GVCs) create, capture, and distribute
    value, yet scholarly insight into their joint impact remains scattered.
@@ -569,6 +839,19 @@ AB The convergence of blockchain and metaverse technologies is poised to
    provides a conceptual bridge for international business scholarship and
    a practical roadmap for firms navigating the next wave of digital GVC
    transformation.
+RI Mohiuddin, Muhammad/GVU-2001-2022; Mirzaye, Sina/OOM-8534-2025
+OI Mohiuddin, Muhammad/0000-0003-2009-027X; Mirzaye,
+   Sina/0000-0002-2573-6757
+TC 5
+ZB 0
+ZR 0
+Z8 0
+ZS 0
+ZA 0
+Z9 9
+C1 Dept Management, Pavillon Palasis Prince,2325 Rue Terrasse, Quebec City,
+   PQ G1V 0A6, Canada
+C3 Dept Management
 SN 0718-1876
 DA 2025-07-01
 UT WOS:001516760500001
@@ -581,7 +864,16 @@ AU Ibrahim, Nader
    Whitaker, Iain S.
 TI Innovation in a Time of Crisis: A Systematic Review of Three-Dimensional
    Printing in the COVID-19 Pandemic
+SO 3D PRINTING AND ADDITIVE MANUFACTURING
+VL 8
+IS 3
+BP 201
+EP 215
+DI 10.1089/3dp.2020.0258
 EA MAR 2021
+DT Review
+PD JUN 1 2021
+PY 2021
 AB The coronavirus (COVID-19) global pandemic resulted in the breakdown of
    traditional supply chains responsible for providing essential equipment
    to hospitals and personal protective equipment (PPE) for health and
@@ -614,6 +906,18 @@ AB The coronavirus (COVID-19) global pandemic resulted in the breakdown of
    witnessed the rapid reconfiguration of traditional supply chains to
    circumvent global shortages, while making advancements in effort to
    limit the impact of this and future pandemics.
+RI Jessop, Zita/; Whitaker, Iain/O-5896-2019
+OI Jessop, Zita/0000-0003-2886-9165; 
+ZR 0
+ZS 0
+ZB 0
+ZA 0
+TC 9
+Z8 0
+Z9 10
+C1 Swansea Univ, Inst Life Sci, Sch Med, Reconstruct Surg & Regenerat Med
+   Res Grp ReconReg, Swansea SA2 8PP, W Glam, Wales
+C1 Morriston Hosp, Welsh Ctr Burns & Plast Surg, Swansea, W Glam, Wales
 SN 2329-7662
 EI 2329-7670
 DA 2021-04-24
@@ -626,6 +930,14 @@ AU Al-Dobashi, Hussein
    Wright, Steven
 TI Stress-Testing Food Security in a Socio-Ecological System: Qatar's
    Adaptive Responses to Sequential Shocks
+SO SYSTEMS
+VL 14
+IS 1
+AR 46
+DI 10.3390/systems14010046
+DT Review
+PD DEC 31 2025
+PY 2025
 AB Food systems operate as socio-ecological systems (SES) in which
    governance, markets, and biophysical constraints interact through
    feedback. However, how resilience capacities accumulate across
@@ -653,6 +965,14 @@ AB Food systems operate as socio-ecological systems (SES) in which
    eco-constrained, import-dependent systems requires explicit governance
    of these tradeoffs through measurable performance criteria, rather than
    crisis-driven expansion alone.
+ZR 0
+ZS 0
+Z8 0
+TC 0
+ZA 0
+ZB 0
+Z9 0
+C1 Hamad Bin Khalifa Univ, Coll Humanities & Social Sci, Doha, Qatar
 EI 2079-8954
 DA 2026-02-10
 UT WOS:001671208300001
@@ -664,6 +984,14 @@ AU Mirkov, Gligorije
    Djapic, Mirko
 TI RFID technology in the function of generating flexible robotic sequences
    of the FMC
+SO JOURNAL OF THE BRAZILIAN SOCIETY OF MECHANICAL SCIENCES AND ENGINEERING
+VL 41
+IS 12
+AR 549
+DI 10.1007/s40430-019-2048-5
+DT Review
+PD DEC 2019
+PY 2019
 AB Improving flexibility, identifying parts and assigning process
    operations in flexible production are elements that can potentially
    influence the improvement in the management process. RFID technology has
@@ -683,6 +1011,18 @@ AB Improving flexibility, identifying parts and assigning process
    capable than the most of the implemented ones in the current production
    practice, especially if the process is dynamic, unknown to the
    management, and has the requirements of reconfiguration.
+ZB 0
+ZA 0
+TC 0
+ZR 0
+Z8 0
+ZS 0
+Z9 1
+C1 Polytech Sch New Technol, New Belgrade, Serbia
+C1 Minist Econ, Sector Qual Infrastruct, Belgrade, Serbia
+C1 Univ Kragujevac, Fac Mech & Civil Engn, Kraljevo, Serbia
+C3 Polytech Sch New Technol
+C3 Minist Econ
 SN 1678-5878
 EI 1806-3691
 DA 2019-11-22
@@ -694,7 +1034,16 @@ AU Li, Jinzhi
    Fu, Liuliu
    Wang, Yun
 TI Generative AI and management analytics: survey
+SO JOURNAL OF MANAGEMENT ANALYTICS
+VL 13
+IS 2
+BP 217
+EP 263
+DI 10.1080/23270012.2026.2652312
 EA MAY 2026
+DT Review
+PD APR 3 2026
+PY 2026
 AB Research on generative artificial intelligence (GenAI) has reached a
    critical point at which widespread organizational uptake is coinciding
    with a rapid reconfiguration of management analytics as both a technical
@@ -720,6 +1069,16 @@ AB Research on generative artificial intelligence (GenAI) has reached a
    change, and it advances an agenda that prioritizes testable mechanisms
    (data readiness, workflow redesign, and governance) and multi-level
    outcomes relevant to practitioners and policymakers.
+Z8 0
+TC 0
+ZB 0
+ZS 0
+ZR 0
+ZA 0
+Z9 0
+C1 Old Dominion Univ, Business PhD Program, Norfolk, VA USA
+C1 Calif State Univ Los Angeles, Dept Informat Syst, Los Angeles, CA USA
+C1 Guangxi Med Univ, Grad Sch, Nanning, Peoples R China
 SN 2327-0012
 EI 2327-0039
 DA 2026-06-26
@@ -733,7 +1092,15 @@ AU Zhang, Li'ang
    Turebekova, Bazhan
 TI How Innovation Shapes Corporate Environmental Strategy: A Systematic
    Review and Future Research Agenda
+SO SUSTAINABILITY
+VL 18
+IS 10
+AR 4993
+DI 10.3390/su18104993
 EA MAY 2026
+DT Review
+PD MAY 15 2026
+PY 2026
 AB In recent decades, escalating environmental risks have fundamentally
    reshaped the strategic landscape confronting firms. Against the
    intensifying pressures of the global climate crisis, corporate
@@ -763,6 +1130,19 @@ AB In recent decades, escalating environmental risks have fundamentally
    conventional and green innovation, and establishing a more cumulative
    basis for future theorizing in corporate environmental strategy
    research.
+RI Kłoczko-Gajewska, Anna/AAB-9703-2020; MA, Ye/LWK-2144-2024; turebekova, bazhan/X-7626-2018
+ZS 0
+ZA 0
+Z8 0
+TC 0
+ZR 0
+ZB 0
+Z9 0
+C1 Al Farabi Kazakh Natl Univ, Higher Sch Econ & Business, Alma Ata 050040,
+   Kazakhstan
+C1 MY Creat Ctr, Mgreen Lab, Hong Kong, Peoples R China
+C1 Warsaw Univ Life Sci, Fac Econ, PL-02787 Warsaw, Poland
+C3 MY Creat Ctr
 EI 2071-1050
 DA 2026-05-30
 UT WOS:001775476500001
@@ -776,7 +1156,15 @@ AU Li, Xingyu
    Leng, Jiewu
    Wang, Lihui
 TI Smart reconfigurable manufacturing towards Industry 5.0
+SO JOURNAL OF MANUFACTURING SYSTEMS
+VL 86
+BP 178
+EP 202
+DI 10.1016/j.jmsy.2026.02.023
 EA JUN 2026
+DT Review
+PD JUN 2026
+PY 2026
 AB Modern manufacturing enterprises are increasingly confronted with
    complex challenges, including surging demands for product customization,
    shortened product life cycles, and intensified global competition
@@ -808,6 +1196,26 @@ AB Modern manufacturing enterprises are increasingly confronted with
    practices but also paves the way for the development of next-generation
    manufacturing systems capable of addressing increasingly complex and
    evolving manufacturing requirements.
+RI Leng, Jiewu/ABC-2322-2020; Wang, Baicun/M-2423-2019; Wang, Lihui/O-3907-2014
+ZA 0
+TC 4
+ZS 0
+ZR 0
+Z8 0
+ZB 0
+Z9 4
+C1 Purdue Univ, Sch Engn Technol, W Lafayette, IN 47907 USA
+C1 Dalian Univ Technol, Sch Mech Engn, State Key Lab High Performance
+   Precis Mfg, Dalian 116024, Peoples R China
+C1 Beijing Inst Technol, Sch Mech Engn, Beijing 100081, Peoples R China
+C1 Minist Ind & Informat Technol, Beijing Inst Technol, Key Lab Ind
+   Knowledge & Data Fus Technol & Applica, Beijing 100081, Peoples R China
+C1 Zhejiang Univ, Sch Mech Engn, State Key Lab Fluid Power & Mechatron
+   Syst, Hangzhou 310058, Peoples R China
+C1 Guangdong Prov Key Lab Comp Integrated Mfg, Guangzhou 510006, Peoples R
+   China
+C1 KTH Royal Inst Technol, Dept Prod Engn, S-10044 Stockholm, Sweden
+C3 Guangdong Prov Key Lab Comp Integrated Mfg
 SN 0278-6125
 EI 1878-6642
 DA 2026-04-03
@@ -820,6 +1228,15 @@ AU Bernardes, Ednilson Santos
 TI A theoretical review of flexibility, agility and responsiveness in the
    operations management literature Toward a conceptual definition of
    customer responsiveness
+SO INTERNATIONAL JOURNAL OF OPERATIONS & PRODUCTION MANAGEMENT
+VL 29
+IS 1-2
+BP 30
+EP 53
+DI 10.1108/01443570910925352
+DT Review
+PD 2009
+PY 2009
 AB Purpose - The purpose of this paper is to study the often overlapping
    use of the related terms flexibility, agility and responsiveness in the
    operations management literature to clarify differences between the
@@ -846,6 +1263,16 @@ AB Purpose - The purpose of this paper is to study the often overlapping
    has been noted by others, the paper is believed to be the first to
    consider the three terms together and thereby propose a differentiation
    between them.
+RI Bernardes, Ednilson/G-1594-2016
+OI Bernardes, Ednilson/0000-0002-6782-7323
+ZR 0
+TC 263
+ZA 0
+ZS 1
+ZB 3
+Z8 1
+Z9 322
+C1 Georgia So Univ, Dept Finance & Quantitat Anal, Statesboro, GA 30460 USA
 SN 0144-3577
 EI 1758-6593
 DA 2009-01-01
@@ -859,6 +1286,15 @@ AU Volling, Thomas
    Spengler, Thomas S.
 TI Planning of capacities and orders in build-to-order automobile
    production: A review
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+VL 224
+IS 2
+BP 240
+EP 260
+DI 10.1016/j.ejor.2012.07.034
+DT Review
+PD JAN 16 2013
+PY 2013
 AB In an attempt to achieve a competitive edge, automotive companies
    operate global production networks to offer an ever increasing product
    variety, shorter and reliable lead times as well as competitively priced
@@ -877,6 +1313,17 @@ AB In an attempt to achieve a competitive edge, automotive companies
    of planning tasks. Existing models are classified according to this
    framework and open issues that should be addressed in OR are discussed.
    (C) 2012 Elsevier B.V. All rights reserved.
+RI Spengler, Thomas Stefan/AAF-6247-2020
+OI Spengler, Thomas Stefan/0000-0002-0212-1899
+TC 41
+ZR 0
+ZS 0
+ZB 0
+Z8 0
+ZA 0
+Z9 50
+C1 Tech Univ Carolo Wilhelmina Braunschweig, Inst Automot Management & Ind
+   Prod, D-38106 Braunschweig, Germany
 SN 0377-2217
 EI 1872-6860
 DA 2012-12-05
